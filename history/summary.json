@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/treatment.ld.plazi.org.ico",
     "slug": "ld-plazi-kingdoms",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6872,
-    "timeDay": 6806,
-    "timeWeek": 6907,
-    "timeMonth": 6872,
-    "timeYear": 6872,
+    "uptime": "99.96%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 6864,
+    "timeDay": 6773,
+    "timeWeek": 6886,
+    "timeMonth": 6864,
+    "timeYear": 6864,
     "dailyMinutesDown": {
-      "2023-08-18": 0
+      "2023-08-18": 7
     }
   },
   {
