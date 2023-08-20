@@ -21,7 +21,12 @@ sites:
     url: https://test.zenodeo.org/v3/images?page=1&size=30&q=Formica&cols=treatmentId&cols=treatmentTitle&cols=zenodoDep&cols=treatmentDOI&cols=articleTitle&cols=articleAuthor&cols=httpUri&cols=caption&termFreq=true
   - name: Biosyslit
     url: https://zenodo.org/communities/biosyslit/
-    
+  - name: biodiversityPMC
+    url: https://sibils.text-analytics.ch/search/
+  - name: biodiversityPMC Query    
+    url: https://denver.hesge.ch/transform/api/transform?text_query=What%20species%20can%20be%20vector%20of%20eggs%20of%20Dermatobia%20hominis%20?&transf=true&norm=true&unselect=&terms_status=
+  - name: eBioDiv Matching Service
+    url: https://prod.ebiodiv.org/    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
