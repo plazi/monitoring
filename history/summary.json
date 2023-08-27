@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 792,
     "timeDay": 500,
-    "timeWeek": 743,
+    "timeWeek": 759,
     "timeMonth": 792,
     "timeYear": 792,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "99.81%",
     "time": 3821,
     "timeDay": 3287,
-    "timeWeek": 3604,
+    "timeWeek": 3685,
     "timeMonth": 3821,
     "timeYear": 3821,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
     "uptimeYear": "99.93%",
     "time": 6896,
     "timeDay": 8135,
-    "timeWeek": 6954,
+    "timeWeek": 6991,
     "timeMonth": 6896,
     "timeYear": 6896,
     "dailyMinutesDown": {
@@ -84,21 +84,21 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
-    "uptime": "96.07%",
-    "uptimeDay": "64.12%",
-    "uptimeWeek": "88.28%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
+    "status": "down",
+    "uptime": "96.10%",
+    "uptimeDay": "67.30%",
+    "uptimeWeek": "88.33%",
+    "uptimeMonth": "96.10%",
+    "uptimeYear": "96.10%",
     "time": 4164,
-    "timeDay": 3705,
-    "timeWeek": 4398,
+    "timeDay": 3631,
+    "timeWeek": 4435,
     "timeMonth": 4164,
     "timeYear": 4164,
     "dailyMinutesDown": {
       "2023-08-27": 316,
       "2023-08-26": 643,
-      "2023-08-25": 234
+      "2023-08-25": 228
     }
   },
   {
@@ -114,7 +114,7 @@
     "uptimeYear": "100.00%",
     "time": 166,
     "timeDay": 219,
-    "timeWeek": 166,
+    "timeWeek": 157,
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {}
@@ -132,7 +132,7 @@
     "uptimeYear": "100.00%",
     "time": 906,
     "timeDay": 650,
-    "timeWeek": 906,
+    "timeWeek": 993,
     "timeMonth": 906,
     "timeYear": 906,
     "dailyMinutesDown": {}
@@ -150,7 +150,7 @@
     "uptimeYear": "100.00%",
     "time": 1059,
     "timeDay": 1178,
-    "timeWeek": 1059,
+    "timeWeek": 1065,
     "timeMonth": 1059,
     "timeYear": 1059,
     "dailyMinutesDown": {}
@@ -168,7 +168,7 @@
     "uptimeYear": "100.00%",
     "time": 836,
     "timeDay": 888,
-    "timeWeek": 836,
+    "timeWeek": 884,
     "timeMonth": 836,
     "timeYear": 836,
     "dailyMinutesDown": {}
@@ -179,14 +179,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/denver.hesge.ch.ico",
     "slug": "biodiversity-pmc-query",
     "status": "up",
-    "uptime": "96.36%",
+    "uptime": "96.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "96.36%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
     "time": 2601,
     "timeDay": 1638,
-    "timeWeek": 2601,
+    "timeWeek": 2619,
     "timeMonth": 2601,
     "timeYear": 2601,
     "dailyMinutesDown": {
@@ -206,7 +206,7 @@
     "uptimeYear": "100.00%",
     "time": 546,
     "timeDay": 554,
-    "timeWeek": 546,
+    "timeWeek": 565,
     "timeMonth": 546,
     "timeYear": 546,
     "dailyMinutesDown": {}
