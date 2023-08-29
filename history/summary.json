@@ -86,18 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
     "status": "down",
-    "uptime": "94.71%",
+    "uptime": "94.68%",
     "uptimeDay": "45.39%",
-    "uptimeWeek": "82.76%",
-    "uptimeMonth": "94.71%",
-    "uptimeYear": "94.71%",
+    "uptimeWeek": "82.69%",
+    "uptimeMonth": "94.68%",
+    "uptimeYear": "94.68%",
     "time": 4649,
     "timeDay": 6784,
     "timeWeek": 4981,
     "timeMonth": 4649,
     "timeYear": 4649,
     "dailyMinutesDown": {
-      "2023-08-29": 389,
+      "2023-08-29": 396,
       "2023-08-28": 846,
       "2023-08-27": 506
     }
@@ -161,18 +161,20 @@
     "url": "https://sibils.text-analytics.ch/search/",
     "icon": "https://icons.duckduckgo.com/ip3/sibils.text-analytics.ch.ico",
     "slug": "biodiversity-pmc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 801,
     "timeDay": 727,
     "timeWeek": 778,
     "timeMonth": 801,
     "timeYear": 801,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-29": 1
+    }
   },
   {
     "name": "biodiversityPMC Query",
@@ -199,9 +201,9 @@
     "url": "https://prod.ebiodiv.org/",
     "icon": "https://icons.duckduckgo.com/ip3/prod.ebiodiv.org.ico",
     "slug": "e-bio-div-matching-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -210,6 +212,8 @@
     "timeWeek": 540,
     "timeMonth": 530,
     "timeYear": 530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-29": 0
+    }
   }
 ]
