@@ -85,21 +85,21 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
-    "uptime": "93.52%",
-    "uptimeDay": "32.84%",
-    "uptimeWeek": "78.54%",
-    "uptimeMonth": "93.52%",
-    "uptimeYear": "93.52%",
+    "status": "down",
+    "uptime": "93.54%",
+    "uptimeDay": "33.17%",
+    "uptimeWeek": "78.60%",
+    "uptimeMonth": "93.54%",
+    "uptimeYear": "93.54%",
     "time": 4686,
     "timeDay": 6451,
     "timeWeek": 5038,
     "timeMonth": 4686,
     "timeYear": 4686,
     "dailyMinutesDown": {
-      "2023-08-29": 876,
+      "2023-08-29": 877,
       "2023-08-28": 846,
-      "2023-08-27": 442
+      "2023-08-27": 435
     }
   },
   {
@@ -182,18 +182,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/denver.hesge.ch.ico",
     "slug": "biodiversity-pmc-query",
     "status": "down",
-    "uptime": "94.00%",
-    "uptimeDay": "69.64%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "94.00%",
+    "uptime": "93.96%",
+    "uptimeDay": "69.23%",
+    "uptimeWeek": "91.97%",
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "93.96%",
     "time": 2593,
     "timeDay": 2542,
     "timeWeek": 2544,
     "timeMonth": 2593,
     "timeYear": 2593,
     "dailyMinutesDown": {
-      "2023-08-29": 437,
+      "2023-08-29": 443,
       "2023-08-23": 366
     }
   },
@@ -203,18 +203,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.ebiodiv.org.ico",
     "slug": "e-bio-div-matching-service",
     "status": "down",
-    "uptime": "95.97%",
-    "uptimeDay": "62.59%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "95.97%",
+    "uptime": "95.93%",
+    "uptimeDay": "62.19%",
+    "uptimeWeek": "94.60%",
+    "uptimeMonth": "95.93%",
+    "uptimeYear": "95.93%",
     "time": 530,
     "timeDay": 478,
     "timeWeek": 540,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2023-08-29": 539
+      "2023-08-29": 544
     }
   }
 ]
