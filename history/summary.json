@@ -86,15 +86,15 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
-    "uptime": "90.64%",
-    "uptimeDay": "15.95%",
-    "uptimeWeek": "64.68%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "90.64%",
+    "status": "down",
+    "uptime": "90.72%",
+    "uptimeDay": "16.30%",
+    "uptimeWeek": "64.98%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "90.72%",
     "time": 5277,
     "timeDay": 7918,
-    "timeWeek": 5941,
+    "timeWeek": 5929,
     "timeMonth": 5277,
     "timeYear": 5277,
     "dailyMinutesDown": {
@@ -102,7 +102,7 @@
       "2023-09-01": 1236,
       "2023-08-31": 1264,
       "2023-08-30": 492,
-      "2023-08-29": 445
+      "2023-08-29": 415
     }
   },
   {
@@ -129,18 +129,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.zenodeo.org.ico",
     "slug": "zenodeo-query",
     "status": "down",
-    "uptime": "96.69%",
-    "uptimeDay": "58.45%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "96.69%",
+    "uptime": "96.66%",
+    "uptimeDay": "58.05%",
+    "uptimeWeek": "94.01%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
     "time": 829,
     "timeDay": 461,
     "timeWeek": 704,
     "timeMonth": 829,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2023-09-02": 166,
+      "2023-09-02": 172,
       "2023-09-01": 432
     }
   },
