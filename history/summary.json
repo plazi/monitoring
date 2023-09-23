@@ -255,18 +255,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "xml-processing-actions",
     "status": "down",
-    "uptime": "2.09%",
-    "uptimeDay": "2.09%",
-    "uptimeWeek": "2.09%",
-    "uptimeMonth": "2.09%",
-    "uptimeYear": "2.09%",
+    "uptime": "1.93%",
+    "uptimeDay": "1.93%",
+    "uptimeWeek": "1.93%",
+    "uptimeMonth": "1.93%",
+    "uptimeYear": "1.93%",
     "time": 331,
     "timeDay": 331,
     "timeWeek": 331,
     "timeMonth": 331,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-09-23": 0
+      "2023-09-23": 1
     }
   }
 ]
