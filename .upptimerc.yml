@@ -26,7 +26,10 @@ sites:
   - name: biodiversityPMC Query    
     url: https://denver.hesge.ch/transform/api/transform?text_query=What%20species%20can%20be%20vector%20of%20eggs%20of%20Dermatobia%20hominis%20?&transf=true&norm=true&unselect=&terms_status=
   - name: eBioDiv Matching Service
-    url: https://prod.ebiodiv.org/    
+    url: https://prod.ebiodiv.org/
+  - name: XML Processing Actions
+    url: https://github.com/plazi/treatments-xml/actions/workflows/main.yml/badge.svg
+    __dangerous__body_down: failing
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
