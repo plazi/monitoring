@@ -107,7 +107,7 @@
     "time": 5041,
     "timeDay": 1197,
     "timeWeek": 1289,
-    "timeMonth": 5763,
+    "timeMonth": 5752,
     "timeYear": 5041,
     "dailyMinutesDown": {
       "2023-09-15": 8,
@@ -256,19 +256,19 @@
     "url": "https://gg2rdf.ld.plazi.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/gg2rdf.ld.plazi.org.ico",
     "slug": "gg-2-rdf-service",
-    "status": "down",
-    "uptime": "54.92%",
-    "uptimeDay": "54.92%",
-    "uptimeWeek": "54.92%",
-    "uptimeMonth": "54.92%",
-    "uptimeYear": "54.92%",
-    "time": 603,
-    "timeDay": 603,
-    "timeWeek": 603,
-    "timeMonth": 603,
-    "timeYear": 603,
+    "status": "up",
+    "uptime": "29.58%",
+    "uptimeDay": "29.58%",
+    "uptimeWeek": "29.58%",
+    "uptimeMonth": "29.58%",
+    "uptimeYear": "29.58%",
+    "time": 626,
+    "timeDay": 626,
+    "timeWeek": 626,
+    "timeMonth": 626,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2023-09-30": 9
+      "2023-09-30": 28
     }
   }
 ]
