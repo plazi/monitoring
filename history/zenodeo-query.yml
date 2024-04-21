@@ -1,7 +1,7 @@
 url: https://test.zenodeo.org/v3/images?page=1&size=30&q=Formica&cols=treatmentId&cols=treatmentTitle&cols=zenodoDep&cols=treatmentDOI&cols=articleTitle&cols=articleAuthor&cols=httpUri&cols=caption&termFreq=true
 status: up
 code: 200
-responseTime: 687
-lastUpdated: 2024-04-20T23:06:14.131Z
+responseTime: 507
+lastUpdated: 2024-04-21T23:06:03.975Z
 startTime: 2023-08-20T13:35:56.347Z
 generator: Upptime <https://github.com/upptime/upptime>
