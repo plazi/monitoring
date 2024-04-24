@@ -126,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.38%",
-    "time": 3893,
-    "timeDay": 1057,
-    "timeWeek": 1469,
-    "timeMonth": 1963,
-    "timeYear": 3893,
+    "uptime": "99.40%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.40%",
+    "time": 3889,
+    "timeDay": 1077,
+    "timeWeek": 1441,
+    "timeMonth": 1947,
+    "timeYear": 3889,
     "dailyMinutesDown": {
-      "2024-04-24": 17,
+      "2024-04-24": 29,
       "2024-04-13": 6,
       "2024-04-08": 9,
       "2024-04-02": 10,
@@ -162,7 +162,7 @@
       "2023-09-15": 8,
       "2023-09-03": 55,
       "2023-09-02": 992,
-      "2023-09-01": 1031
+      "2023-09-01": 940
     }
   },
   {
@@ -325,7 +325,7 @@
     "timeMonth": 2579,
     "timeYear": 3241,
     "dailyMinutesDown": {
-      "2024-04-24": 679,
+      "2024-04-24": 698,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
