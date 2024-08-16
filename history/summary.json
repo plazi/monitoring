@@ -48,7 +48,7 @@
     "uptime": "97.77%",
     "uptimeDay": "73.76%",
     "uptimeWeek": "95.87%",
-    "uptimeMonth": "90.19%",
+    "uptimeMonth": "90.24%",
     "uptimeYear": "97.70%",
     "time": 6298,
     "timeDay": 10498,
@@ -133,17 +133,17 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "83.95%",
-    "uptimeWeek": "97.17%",
+    "uptimeDay": "83.92%",
+    "uptimeWeek": "97.16%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.84%",
-    "time": 3583,
-    "timeDay": 4762,
-    "timeWeek": 4205,
-    "timeMonth": 3175,
-    "timeYear": 3607,
+    "time": 3579,
+    "timeDay": 4613,
+    "timeWeek": 4119,
+    "timeMonth": 3137,
+    "timeYear": 3604,
     "dailyMinutesDown": {
       "2024-08-16": 132,
       "2024-08-15": 120,
@@ -192,7 +192,7 @@
       "2023-10-19": 6,
       "2023-10-14": 9,
       "2023-09-15": 8,
-      "2023-09-03": 31
+      "2023-09-03": 19
     }
   },
   {
@@ -384,7 +384,7 @@
     "timeMonth": 2617,
     "timeYear": 3059,
     "dailyMinutesDown": {
-      "2024-08-16": 759,
+      "2024-08-16": 781,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
