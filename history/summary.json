@@ -46,9 +46,9 @@
     "slug": "lindas-kingdoms",
     "status": "up",
     "uptime": "97.77%",
-    "uptimeDay": "73.82%",
+    "uptimeDay": "74.38%",
     "uptimeWeek": "95.77%",
-    "uptimeMonth": "91.03%",
+    "uptimeMonth": "91.04%",
     "uptimeYear": "97.70%",
     "time": 6295,
     "timeDay": 10142,
@@ -133,14 +133,14 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "79.93%",
+    "uptimeDay": "80.30%",
     "uptimeWeek": "96.53%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 3587,
-    "timeDay": 4591,
+    "timeDay": 4670,
     "timeWeek": 4147,
     "timeMonth": 3289,
     "timeYear": 3608,
@@ -187,7 +187,7 @@
       "2023-12-21": 17,
       "2023-12-14": 17,
       "2023-11-15": 19,
-      "2023-11-11": 18
+      "2023-11-11": 12
     }
   },
   {
@@ -379,7 +379,7 @@
     "timeMonth": 2617,
     "timeYear": 3059,
     "dailyMinutesDown": {
-      "2024-08-16": 1137,
+      "2024-08-16": 1145,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
