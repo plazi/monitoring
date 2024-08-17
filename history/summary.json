@@ -48,7 +48,7 @@
     "uptime": "97.77%",
     "uptimeDay": "85.08%",
     "uptimeWeek": "95.77%",
-    "uptimeMonth": "92.30%",
+    "uptimeMonth": "92.35%",
     "uptimeYear": "97.70%",
     "time": 6292,
     "timeDay": 8120,
@@ -132,14 +132,14 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "68.52%",
-    "uptimeWeek": "93.62%",
+    "uptimeDay": "69.22%",
+    "uptimeWeek": "93.61%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "99.81%",
     "time": 3619,
-    "timeDay": 4588,
+    "timeDay": 4665,
     "timeWeek": 4456,
     "timeMonth": 3696,
     "timeYear": 3642,
@@ -176,8 +176,7 @@
       "2024-03-30": 4,
       "2024-03-29": 12,
       "2024-03-28": 21,
-      "2024-03-27": 13,
-      "2024-03-26": 10
+      "2024-03-27": 13
     }
   },
   {
@@ -369,7 +368,7 @@
     "timeMonth": 2623,
     "timeYear": 3058,
     "dailyMinutesDown": {
-      "2024-08-17": 253,
+      "2024-08-17": 275,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
