@@ -48,7 +48,7 @@
     "uptime": "97.77%",
     "uptimeDay": "79.84%",
     "uptimeWeek": "95.77%",
-    "uptimeMonth": "91.70%",
+    "uptimeMonth": "91.72%",
     "uptimeYear": "97.70%",
     "time": 6292,
     "timeDay": 9125,
@@ -124,8 +124,7 @@
       "2024-03-05": 152,
       "2024-03-04": 421,
       "2023-09-15": 8,
-      "2023-08-24": 14,
-      "2023-08-18": 7
+      "2023-08-24": 14
     }
   },
   {
@@ -133,18 +132,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "75.17%",
-    "uptimeWeek": "94.99%",
+    "uptimeDay": "75.44%",
+    "uptimeWeek": "94.98%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.83%",
     "time": 3635,
-    "timeDay": 4787,
+    "timeDay": 4884,
     "timeWeek": 4753,
     "timeMonth": 3857,
     "timeYear": 3658,
     "dailyMinutesDown": {
+      "2024-08-17": 0,
       "2024-08-16": 353,
       "2024-08-15": 120,
       "2024-08-13": 9,
@@ -180,8 +180,7 @@
       "2024-03-26": 10,
       "2024-03-24": 14,
       "2024-03-23": 4,
-      "2024-03-16": 6,
-      "2024-02-17": 6
+      "2024-03-16": 6
     }
   },
   {
@@ -373,7 +372,8 @@
     "timeMonth": 2623,
     "timeYear": 3058,
     "dailyMinutesDown": {
-      "2024-08-16": 1433,
+      "2024-08-17": 1,
+      "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
