@@ -44,10 +44,10 @@
     "url": "https://lindas.admin.ch/query?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/lindas.admin.ch.ico",
     "slug": "lindas-kingdoms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "92.46%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "92.51%",
     "uptimeMonth": "95.86%",
     "uptimeYear": "99.57%",
     "time": 6414,
@@ -56,7 +56,7 @@
     "timeMonth": 9465,
     "timeYear": 6516,
     "dailyMinutesDown": {
-      "2024-09-01": 6,
+      "2024-09-01": 7,
       "2024-08-31": 49,
       "2024-08-30": 23,
       "2024-08-26": 280,
@@ -73,8 +73,7 @@
       "2024-08-03": 152,
       "2024-08-02": 222,
       "2024-07-29": 230,
-      "2024-07-28": 197,
-      "2024-07-22": 7
+      "2024-07-28": 197
     }
   },
   {
@@ -86,7 +85,7 @@
     "uptime": "92.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.16%",
+    "uptimeMonth": "88.95%",
     "uptimeYear": "92.30%",
     "time": 9531,
     "timeDay": 10745,
@@ -135,7 +134,7 @@
     "timeDay": 7577,
     "timeWeek": 2964,
     "timeMonth": 4128,
-    "timeYear": 2936,
+    "timeYear": 2928,
     "dailyMinutesDown": {
       "2024-08-31": 18,
       "2024-08-30": 24,
@@ -327,14 +326,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.53%",
+    "uptimeYear": "17.52%",
     "time": 3043,
     "timeDay": 2790,
     "timeWeek": 2603,
     "timeMonth": 2629,
     "timeYear": 3060,
     "dailyMinutesDown": {
-      "2024-09-01": 234,
+      "2024-09-01": 261,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
