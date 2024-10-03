@@ -1,7 +1,7 @@
 url: https://gg2rdf.ld.plazi.org/status
-status: up
+status: degraded
 code: 200
-responseTime: 761
-lastUpdated: 2024-10-02T23:07:15.413Z
+responseTime: 609
+lastUpdated: 2024-10-03T15:44:31.269Z
 startTime: 2023-09-30T11:37:32.859Z
 generator: Upptime <https://github.com/upptime/upptime>
