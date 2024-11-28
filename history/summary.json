@@ -48,12 +48,12 @@
     "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
-    "uptimeMonth": "98.57%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "97.18%",
     "time": 6782,
     "timeDay": 3522,
     "timeWeek": 4930,
-    "timeMonth": 5984,
+    "timeMonth": 6001,
     "timeYear": 7092,
     "dailyMinutesDown": {
       "2024-11-24": 79,
@@ -182,13 +182,13 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "96.47%",
+    "uptimeDay": "96.44%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.80%",
-    "time": 2879,
+    "uptimeYear": "99.81%",
+    "time": 2867,
     "timeDay": 4401,
     "timeWeek": 4075,
     "timeMonth": 3302,
@@ -227,7 +227,7 @@
       "2024-08-21": 164,
       "2024-08-20": 185,
       "2024-08-19": 66,
-      "2024-08-18": 15
+      "2024-08-18": 4
     }
   },
   {
@@ -423,7 +423,7 @@
     "timeMonth": 2771,
     "timeYear": 2678,
     "dailyMinutesDown": {
-      "2024-11-28": 1298,
+      "2024-11-28": 1360,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
