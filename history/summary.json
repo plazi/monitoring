@@ -126,9 +126,9 @@
     "slug": "ld-plazi-kingdoms",
     "status": "down",
     "uptime": "93.55%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "87.58%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "91.13%",
     "time": 10521,
     "timeDay": 24105,
@@ -136,7 +136,7 @@
     "timeMonth": 14672,
     "timeYear": 11573,
     "dailyMinutesDown": {
-      "2024-12-20": 171,
+      "2024-12-20": 179,
       "2024-12-18": 4,
       "2024-11-26": 5,
       "2024-11-21": 33,
@@ -188,10 +188,10 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "98.58%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "98.57%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "99.75%",
     "time": 2953,
@@ -239,7 +239,7 @@
       "2024-08-30": 24,
       "2024-08-29": 19,
       "2024-08-21": 164,
-      "2024-08-20": 72
+      "2024-08-20": 68
     }
   },
   {
@@ -434,7 +434,7 @@
     "timeMonth": 2632,
     "timeYear": 2674,
     "dailyMinutesDown": {
-      "2024-12-20": 1199,
+      "2024-12-20": 1207,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
