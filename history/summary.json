@@ -54,7 +54,7 @@
     "timeDay": 6983,
     "timeWeek": 8681,
     "timeMonth": 5238,
-    "timeYear": 6958,
+    "timeYear": 6966,
     "dailyMinutesDown": {
       "2025-01-05": 81,
       "2025-01-03": 29,
@@ -194,17 +194,17 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "95.78%",
+    "uptimeDay": "95.75%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "98.88%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 3076,
-    "timeDay": 3243,
-    "timeWeek": 3456,
-    "timeMonth": 5175,
-    "timeYear": 3261,
+    "timeDay": 2880,
+    "timeWeek": 3260,
+    "timeMonth": 5116,
+    "timeYear": 3258,
     "dailyMinutesDown": {
       "2025-01-05": 61,
       "2025-01-02": 25,
@@ -251,7 +251,7 @@
       "2024-09-02": 5,
       "2024-09-01": 13,
       "2024-08-31": 18,
-      "2024-08-30": 18
+      "2024-08-30": 12
     }
   },
   {
@@ -443,7 +443,7 @@
     "timeMonth": 2590,
     "timeYear": 2672,
     "dailyMinutesDown": {
-      "2025-01-05": 783,
+      "2025-01-05": 872,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
