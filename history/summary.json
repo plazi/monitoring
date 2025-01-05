@@ -54,7 +54,7 @@
     "timeDay": 2383,
     "timeWeek": 8417,
     "timeMonth": 5083,
-    "timeYear": 6983,
+    "timeYear": 6986,
     "dailyMinutesDown": {
       "2025-01-03": 29,
       "2025-01-02": 186,
@@ -193,18 +193,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.75%",
-    "time": 3058,
+    "time": 3060,
     "timeDay": 3974,
     "timeWeek": 3681,
     "timeMonth": 5324,
     "timeYear": 3262,
     "dailyMinutesDown": {
+      "2025-01-05": 0,
       "2025-01-02": 25,
       "2024-12-28": 9,
       "2024-12-27": 12,
@@ -250,8 +251,7 @@
       "2024-09-01": 13,
       "2024-08-31": 18,
       "2024-08-30": 24,
-      "2024-08-29": 19,
-      "2024-08-21": 11
+      "2024-08-29": 19
     }
   },
   {
@@ -432,7 +432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denver.hesge.ch.ico",
     "slug": "biodiversity-pmc-query",
     "status": "down",
-    "uptime": "15.00%",
+    "uptime": "14.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -443,7 +443,7 @@
     "timeMonth": 2590,
     "timeYear": 2672,
     "dailyMinutesDown": {
-      "2025-01-05": 4,
+      "2025-01-05": 465,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
