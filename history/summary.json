@@ -209,12 +209,12 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "99.59%",
-    "uptimeWeek": "96.71%",
+    "uptimeWeek": "96.82%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "99.76%",
     "time": 3168,
     "timeDay": 2504,
-    "timeWeek": 4211,
+    "timeWeek": 4128,
     "timeMonth": 4345,
     "timeYear": 3453,
     "dailyMinutesDown": {
@@ -271,12 +271,12 @@
     "slug": "zenodeo-query",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "99.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.02%",
     "time": 830,
-    "timeDay": 6299,
+    "timeDay": 575,
     "timeWeek": 3937,
     "timeMonth": 2452,
     "timeYear": 821,
@@ -437,7 +437,8 @@
     "timeMonth": 2594,
     "timeYear": 2643,
     "dailyMinutesDown": {
-      "2025-01-27": 1395,
+      "2025-01-28": 4,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -798,8 +799,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   },
   {
