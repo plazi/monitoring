@@ -46,7 +46,7 @@
     "slug": "lindas-kingdoms",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "60.12%",
+    "uptimeDay": "62.76%",
     "uptimeWeek": "93.73%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "96.99%",
@@ -133,7 +133,7 @@
     "uptime": "92.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.09%",
+    "uptimeMonth": "83.18%",
     "uptimeYear": "89.31%",
     "time": 10882,
     "timeDay": 0,
@@ -283,7 +283,7 @@
     "slug": "zenodeo-query",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "91.58%",
+    "uptimeDay": "92.86%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "98.97%",
@@ -453,7 +453,8 @@
     "timeMonth": 2618,
     "timeYear": 2633,
     "dailyMinutesDown": {
-      "2025-02-11": 1406,
+      "2025-02-12": 4,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -816,8 +817,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -911,7 +911,7 @@
     "uptime": "94.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.95%",
+    "uptimeMonth": "85.04%",
     "uptimeYear": "93.95%",
     "time": 645,
     "timeDay": 0,
