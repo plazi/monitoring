@@ -1,7 +1,7 @@
 url: https://sibils.text-analytics.ch/search/
-status: down
-code: 502
-responseTime: 585
-lastUpdated: 2025-02-17T04:45:25.196Z
+status: up
+code: 200
+responseTime: 1668
+lastUpdated: 2025-02-17T04:51:12.048Z
 startTime: 2023-08-20T13:49:15.703Z
 generator: Upptime <https://github.com/upptime/upptime>
