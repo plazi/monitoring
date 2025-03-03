@@ -217,10 +217,10 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "98.24%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "98.23%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.82%",
     "time": 3497,
@@ -229,6 +229,7 @@
     "timeMonth": 5744,
     "timeYear": 3758,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2025-03-02": 41,
       "2025-03-01": 56,
       "2025-02-28": 34,
@@ -261,7 +262,7 @@
       "2025-01-08": 20,
       "2025-01-07": 77,
       "2025-01-06": 8,
-      "2025-01-05": 11
+      "2025-01-05": 5
     }
   },
   {
@@ -291,12 +292,12 @@
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
-    "uptimeMonth": "98.63%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "98.90%",
     "time": 974,
     "timeDay": 624,
     "timeWeek": 4548,
-    "timeMonth": 2581,
+    "timeMonth": 2630,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2025-02-28": 4,
@@ -460,7 +461,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denver.hesge.ch.ico",
     "slug": "biodiversity-pmc-query",
     "status": "down",
-    "uptime": "13.48%",
+    "uptime": "13.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -471,7 +472,7 @@
     "timeMonth": 2598,
     "timeYear": 2634,
     "dailyMinutesDown": {
-      "2025-03-03": 4,
+      "2025-03-03": 283,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
