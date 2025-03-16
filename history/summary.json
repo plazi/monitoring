@@ -133,7 +133,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/treatment.ld.plazi.org.ico",
     "slug": "ld-plazi-kingdoms",
     "status": "up",
-    "uptime": "93.35%",
+    "uptime": "93.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
@@ -215,13 +215,13 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "94.87%",
-    "uptimeWeek": "94.72%",
-    "uptimeMonth": "96.97%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "99.75%",
-    "time": 3963,
+    "time": 3966,
     "timeDay": 7208,
     "timeWeek": 8733,
     "timeMonth": 7440,
@@ -247,8 +247,7 @@
       "2025-02-27": 33,
       "2025-02-26": 5,
       "2025-02-24": 8,
-      "2025-02-23": 5,
-      "2025-02-22": 26
+      "2025-02-23": 5
     }
   },
   {
@@ -461,7 +460,7 @@
     "timeMonth": 2596,
     "timeYear": 2634,
     "dailyMinutesDown": {
-      "2025-03-16": 732,
+      "2025-03-16": 1015,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
