@@ -215,18 +215,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "94.14%",
+    "uptimeDay": "96.56%",
     "uptimeWeek": "94.78%",
-    "uptimeMonth": "97.04%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "99.75%",
-    "time": 3942,
-    "timeDay": 6480,
-    "timeWeek": 8445,
-    "timeMonth": 7428,
-    "timeYear": 4314,
+    "time": 3952,
+    "timeDay": 7370,
+    "timeWeek": 8552,
+    "timeMonth": 7472,
+    "timeYear": 4325,
     "dailyMinutesDown": {
+      "2025-03-16": 0,
       "2025-03-15": 49,
       "2025-03-14": 299,
       "2025-03-13": 49,
@@ -248,7 +249,7 @@
       "2025-02-24": 8,
       "2025-02-23": 5,
       "2025-02-22": 26,
-      "2025-02-21": 11
+      "2025-02-21": 5
     }
   },
   {
@@ -276,7 +277,7 @@
     "slug": "zenodeo-query",
     "status": "up",
     "uptime": "98.35%",
-    "uptimeDay": "93.37%",
+    "uptimeDay": "94.22%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.86%",
@@ -461,7 +462,8 @@
     "timeMonth": 2596,
     "timeYear": 2634,
     "dailyMinutesDown": {
-      "2025-03-15": 1406,
+      "2025-03-16": 1,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -824,8 +826,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
