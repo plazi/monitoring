@@ -47,12 +47,12 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.16%",
+    "uptimeWeek": "92.28%",
     "uptimeMonth": "95.90%",
     "uptimeYear": "99.66%",
     "time": 6238,
     "timeDay": 3410,
-    "timeWeek": 2988,
+    "timeWeek": 3032,
     "timeMonth": 2706,
     "timeYear": 6262,
     "dailyMinutesDown": {
@@ -149,13 +149,13 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "96.96%",
+    "uptimeDay": "96.93%",
     "uptimeWeek": "99.28%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "99.75%",
-    "time": 4118,
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "99.76%",
+    "time": 4121,
     "timeDay": 4854,
     "timeWeek": 4965,
     "timeMonth": 7525,
@@ -182,8 +182,7 @@
       "2025-03-06": 60,
       "2025-03-05": 116,
       "2025-03-04": 249,
-      "2025-03-03": 27,
-      "2025-03-02": 8
+      "2025-03-03": 27
     }
   },
   {
@@ -395,7 +394,7 @@
     "timeMonth": 2613,
     "timeYear": 2636,
     "dailyMinutesDown": {
-      "2025-03-30": 475,
+      "2025-03-30": 512,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
