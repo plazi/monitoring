@@ -44,19 +44,19 @@
     "url": "https://lindas.admin.ch/query?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/lindas.admin.ch.ico",
     "slug": "lindas-kingdoms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "90.71%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "99.67%",
-    "time": 6314,
-    "timeDay": 13457,
-    "timeWeek": 10069,
-    "timeMonth": 3278,
-    "timeYear": 6294,
+    "uptimeDay": "90.66%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "96.15%",
+    "uptimeYear": "99.68%",
+    "time": 6321,
+    "timeDay": 13337,
+    "timeWeek": 10121,
+    "timeMonth": 3305,
+    "timeYear": 6298,
     "dailyMinutesDown": {
-      "2025-04-11": 40,
+      "2025-04-11": 41,
       "2025-04-10": 94,
       "2025-04-09": 19,
       "2025-03-27": 69,
@@ -64,7 +64,7 @@
       "2025-03-24": 383,
       "2025-03-23": 236,
       "2025-03-22": 514,
-      "2025-03-21": 196
+      "2025-03-21": 164
     }
   },
   {
@@ -401,7 +401,7 @@
     "timeMonth": 2598,
     "timeYear": 2637,
     "dailyMinutesDown": {
-      "2025-04-11": 654,
+      "2025-04-11": 668,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
