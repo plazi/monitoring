@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/treatment.ld.plazi.org.ico",
     "slug": "ld-plazi-kingdoms",
     "status": "up",
-    "uptime": "93.65%",
+    "uptime": "93.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
@@ -152,17 +152,17 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "87.38%",
-    "uptimeWeek": "97.49%",
+    "uptimeDay": "87.34%",
+    "uptimeWeek": "97.48%",
     "uptimeMonth": "97.75%",
     "uptimeYear": "99.77%",
-    "time": 4158,
-    "timeDay": 11314,
-    "timeWeek": 7195,
-    "timeMonth": 7334,
-    "timeYear": 4592,
+    "time": 4174,
+    "timeDay": 11866,
+    "timeWeek": 7587,
+    "timeMonth": 7426,
+    "timeYear": 4607,
     "dailyMinutesDown": {
       "2025-04-13": 73,
       "2025-04-12": 138,
@@ -192,8 +192,7 @@
       "2025-03-10": 41,
       "2025-03-09": 71,
       "2025-03-08": 93,
-      "2025-03-07": 6,
-      "2025-03-06": 7
+      "2025-03-07": 6
     }
   },
   {
@@ -401,7 +400,7 @@
     "timeMonth": 2610,
     "timeYear": 2638,
     "dailyMinutesDown": {
-      "2025-04-13": 458,
+      "2025-04-13": 632,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
