@@ -152,19 +152,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "86.48%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "97.72%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "86.85%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "99.77%",
-    "time": 4213,
-    "timeDay": 13179,
+    "time": 4216,
+    "timeDay": 12390,
     "timeWeek": 8507,
-    "timeMonth": 7659,
+    "timeMonth": 7603,
     "timeYear": 4644,
     "dailyMinutesDown": {
-      "2025-04-13": 86,
+      "2025-04-13": 87,
       "2025-04-12": 138,
       "2025-04-11": 4,
       "2025-04-10": 12,
@@ -191,7 +191,7 @@
       "2025-03-11": 7,
       "2025-03-10": 41,
       "2025-03-09": 71,
-      "2025-03-08": 93
+      "2025-03-08": 57
     }
   },
   {
@@ -289,7 +289,7 @@
     "timeDay": 1753,
     "timeWeek": 1751,
     "timeMonth": 2329,
-    "timeYear": 1391,
+    "timeYear": 1394,
     "dailyMinutesDown": {
       "2025-04-09": 10,
       "2025-03-25": 87,
@@ -399,7 +399,7 @@
     "timeMonth": 2610,
     "timeYear": 2638,
     "dailyMinutesDown": {
-      "2025-04-13": 688,
+      "2025-04-13": 839,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
