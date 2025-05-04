@@ -44,10 +44,10 @@
     "url": "https://lindas.admin.ch/query?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/lindas.admin.ch.ico",
     "slug": "lindas-kingdoms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "99.63%",
     "time": 6315,
@@ -56,6 +56,7 @@
     "timeMonth": 7173,
     "timeYear": 6272,
     "dailyMinutesDown": {
+      "2025-05-04": 1,
       "2025-05-02": 10,
       "2025-04-26": 72,
       "2025-04-25": 106,
@@ -71,7 +72,7 @@
       "2025-03-24": 383,
       "2025-03-23": 236,
       "2025-03-22": 514,
-      "2025-03-21": 55
+      "2025-03-21": 47
     }
   },
   {
@@ -82,7 +83,7 @@
     "status": "up",
     "uptime": "95.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.93%",
+    "uptimeWeek": "74.29%",
     "uptimeMonth": "90.66%",
     "uptimeYear": "92.73%",
     "time": 12822,
@@ -390,7 +391,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denver.hesge.ch.ico",
     "slug": "biodiversity-pmc-query",
     "status": "down",
-    "uptime": "12.14%",
+    "uptime": "12.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -401,7 +402,7 @@
     "timeMonth": 2638,
     "timeYear": 2639,
     "dailyMinutesDown": {
-      "2025-05-04": 5,
+      "2025-05-04": 41,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
