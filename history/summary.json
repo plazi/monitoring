@@ -46,9 +46,9 @@
     "slug": "lindas-kingdoms",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "96.92%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "99.48%",
     "time": 6308,
     "timeDay": 13238,
@@ -56,7 +56,7 @@
     "timeMonth": 5887,
     "timeYear": 6330,
     "dailyMinutesDown": {
-      "2025-05-20": 6,
+      "2025-05-20": 24,
       "2025-05-14": 31,
       "2025-05-13": 13,
       "2025-05-09": 450,
@@ -158,18 +158,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.81%",
-    "time": 4562,
+    "time": 4564,
     "timeDay": 3920,
     "timeWeek": 3937,
     "timeMonth": 5135,
     "timeYear": 4880,
     "dailyMinutesDown": {
+      "2025-05-20": 1,
       "2025-05-17": 15,
       "2025-05-16": 14,
       "2025-05-15": 19,
@@ -209,7 +210,7 @@
       "2025-03-19": 6,
       "2025-03-17": 34,
       "2025-03-16": 60,
-      "2025-03-15": 19
+      "2025-03-15": 13
     }
   },
   {
@@ -420,7 +421,7 @@
     "timeMonth": 2607,
     "timeYear": 2640,
     "dailyMinutesDown": {
-      "2025-05-20": 1077,
+      "2025-05-20": 1096,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
