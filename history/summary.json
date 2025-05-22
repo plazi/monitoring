@@ -159,19 +159,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "95.85%",
-    "uptimeWeek": "98.82%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.81%",
-    "time": 4596,
+    "time": 4597,
     "timeDay": 3598,
-    "timeWeek": 3825,
+    "timeWeek": 3802,
     "timeMonth": 4858,
     "timeYear": 4876,
     "dailyMinutesDown": {
-      "2025-05-22": 36,
+      "2025-05-22": 37,
       "2025-05-21": 24,
       "2025-05-20": 11,
       "2025-05-17": 15,
@@ -211,8 +211,7 @@
       "2025-03-21": 17,
       "2025-03-20": 4,
       "2025-03-19": 6,
-      "2025-03-17": 34,
-      "2025-03-16": 5
+      "2025-03-17": 34
     }
   },
   {
@@ -423,7 +422,7 @@
     "timeMonth": 2619,
     "timeYear": 2641,
     "dailyMinutesDown": {
-      "2025-05-22": 484,
+      "2025-05-22": 589,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
