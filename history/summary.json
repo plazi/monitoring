@@ -90,7 +90,7 @@
     "uptime": "96.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.22%",
+    "uptimeMonth": "63.21%",
     "uptimeYear": "93.90%",
     "time": 13065,
     "timeDay": 7939,
@@ -99,7 +99,7 @@
     "timeYear": 13488,
     "dailyMinutesDown": {
       "2025-06-05": 306,
-      "2025-06-16": 1365,
+      "2025-06-16": 1371,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -169,13 +169,13 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "79.23%",
-    "uptimeWeek": "95.35%",
+    "uptimeDay": "79.63%",
+    "uptimeWeek": "95.34%",
     "uptimeMonth": "97.59%",
     "uptimeYear": "99.77%",
-    "time": 4891,
+    "time": 4893,
     "timeDay": 7667,
     "timeWeek": 7689,
     "timeMonth": 6246,
@@ -221,7 +221,7 @@
       "2025-04-24": 34,
       "2025-04-23": 23,
       "2025-04-20": 6,
-      "2025-04-18": 16
+      "2025-04-18": 6
     }
   },
   {
@@ -434,7 +434,7 @@
     "timeMonth": 2658,
     "timeYear": 2641,
     "dailyMinutesDown": {
-      "2025-06-16": 1365,
+      "2025-06-16": 1372,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
