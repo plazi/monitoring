@@ -92,18 +92,19 @@
     "url": "https://treatment.ld.plazi.org/sparql?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/treatment.ld.plazi.org.ico",
     "slug": "ld-plazi-kingdoms",
-    "status": "up",
-    "uptime": "89.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "41.12%",
-    "uptimeMonth": "7.56%",
-    "uptimeYear": "78.38%",
-    "time": 12937,
+    "status": "down",
+    "uptime": "89.38%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "41.39%",
+    "uptimeMonth": "7.62%",
+    "uptimeYear": "78.46%",
+    "time": 12944,
     "timeDay": 9411,
     "timeWeek": 10758,
     "timeMonth": 10773,
     "timeYear": 13001,
     "dailyMinutesDown": {
+      "2025-08-15": 1,
       "2025-06-05": 306,
       "2025-08-12": 838,
       "2025-08-11": 1440,
@@ -224,7 +225,7 @@
       "2024-11-13": 292,
       "2024-11-12": 29,
       "2024-11-09": 5,
-      "2024-11-08": 441
+      "2024-11-08": 16
     }
   },
   {
@@ -232,11 +233,11 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "88.57%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "88.53%",
+    "uptimeWeek": "95.70%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.70%",
     "time": 5383,
     "timeDay": 9028,
@@ -270,7 +271,7 @@
       "2025-06-26": 122,
       "2025-06-25": 243,
       "2025-06-24": 68,
-      "2025-06-21": 106
+      "2025-06-21": 82
     }
   },
   {
@@ -472,7 +473,7 @@
     "timeMonth": 2682,
     "timeYear": 2650,
     "dailyMinutesDown": {
-      "2025-08-15": 663,
+      "2025-08-15": 692,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
