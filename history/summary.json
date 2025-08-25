@@ -96,7 +96,7 @@
     "uptime": "89.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "38.77%",
+    "uptimeMonth": "38.87%",
     "uptimeYear": "78.46%",
     "time": 12963,
     "timeDay": 13879,
@@ -236,13 +236,13 @@
     "slug": "treatmentbank",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "93.10%",
-    "uptimeWeek": "95.47%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "95.53%",
     "uptimeMonth": "97.22%",
     "uptimeYear": "99.71%",
     "time": 6051,
-    "timeDay": 5771,
-    "timeWeek": 6315,
+    "timeDay": 4991,
+    "timeWeek": 6323,
     "timeMonth": 7265,
     "timeYear": 6194,
     "dailyMinutesDown": {
@@ -477,7 +477,8 @@
     "timeMonth": 2632,
     "timeYear": 2647,
     "dailyMinutesDown": {
-      "2025-08-24": 1400,
+      "2025-08-25": 4,
+      "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -840,8 +841,7 @@
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
-      "2024-08-26": 1440,
-      "2024-08-25": 1440
+      "2024-08-26": 1440
     }
   },
   {
