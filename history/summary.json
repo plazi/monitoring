@@ -13,7 +13,7 @@
     "time": 843,
     "timeDay": 785,
     "timeWeek": 811,
-    "timeMonth": 819,
+    "timeMonth": 814,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2024-09-19": 112
@@ -33,7 +33,7 @@
     "time": 422,
     "timeDay": 334,
     "timeWeek": 392,
-    "timeMonth": 376,
+    "timeMonth": 374,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2024-09-19": 112
@@ -53,7 +53,7 @@
     "time": 5358,
     "timeDay": 6027,
     "timeWeek": 4296,
-    "timeMonth": 3755,
+    "timeMonth": 3744,
     "timeYear": 4753,
     "dailyMinutesDown": {
       "2025-07-28": 41,
@@ -96,12 +96,12 @@
     "uptime": "89.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.32%",
+    "uptimeMonth": "68.39%",
     "uptimeYear": "78.46%",
     "time": 12964,
     "timeDay": 9121,
     "timeWeek": 9333,
-    "timeMonth": 9934,
+    "timeMonth": 9981,
     "timeYear": 12976,
     "dailyMinutesDown": {
       "2025-08-21": 19,
@@ -234,16 +234,16 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "93.21%",
-    "uptimeWeek": "93.43%",
-    "uptimeMonth": "97.44%",
+    "uptimeDay": "93.18%",
+    "uptimeWeek": "93.44%",
+    "uptimeMonth": "97.45%",
     "uptimeYear": "99.79%",
-    "time": 6164,
+    "time": 6168,
     "timeDay": 7369,
-    "timeWeek": 7816,
-    "timeMonth": 7397,
+    "timeWeek": 7677,
+    "timeMonth": 7417,
     "timeYear": 6334,
     "dailyMinutesDown": {
       "2025-09-02": 97,
@@ -258,7 +258,7 @@
       "2025-08-24": 94,
       "2025-08-23": 121,
       "2025-08-22": 36,
-      "2025-08-21": 15
+      "2025-08-21": 7
     }
   },
   {
@@ -275,7 +275,7 @@
     "time": 237,
     "timeDay": 197,
     "timeWeek": 276,
-    "timeMonth": 232,
+    "timeMonth": 229,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2025-05-05": 10
@@ -295,7 +295,7 @@
     "time": 1048,
     "timeDay": 717,
     "timeWeek": 688,
-    "timeMonth": 632,
+    "timeMonth": 629,
     "timeYear": 1204,
     "dailyMinutesDown": {
       "2025-08-12": 6,
@@ -365,7 +365,7 @@
     "time": 1682,
     "timeDay": 5467,
     "timeWeek": 4732,
-    "timeMonth": 3455,
+    "timeMonth": 3485,
     "timeYear": 1687,
     "dailyMinutesDown": {
       "2025-09-02": 34,
@@ -413,7 +413,7 @@
     "time": 1363,
     "timeDay": 2678,
     "timeWeek": 2515,
-    "timeMonth": 2045,
+    "timeMonth": 2058,
     "timeYear": 1626,
     "dailyMinutesDown": {
       "2025-08-18": 22,
@@ -460,10 +460,10 @@
     "time": 2642,
     "timeDay": 2673,
     "timeWeek": 2670,
-    "timeMonth": 2627,
+    "timeMonth": 2626,
     "timeYear": 2649,
     "dailyMinutesDown": {
-      "2025-09-02": 1388,
+      "2025-09-02": 1418,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
@@ -844,7 +844,7 @@
     "time": 896,
     "timeDay": 642,
     "timeWeek": 641,
-    "timeMonth": 600,
+    "timeMonth": 599,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2025-08-19": 9,
@@ -893,7 +893,7 @@
     "time": 659,
     "timeDay": 542,
     "timeWeek": 659,
-    "timeMonth": 629,
+    "timeMonth": 627,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2025-05-04": 12,
