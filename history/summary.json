@@ -96,7 +96,7 @@
     "uptime": "89.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.80%",
+    "uptimeMonth": "68.85%",
     "uptimeYear": "78.46%",
     "time": 12964,
     "timeDay": 9121,
@@ -234,11 +234,11 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "90.03%",
-    "uptimeWeek": "93.24%",
-    "uptimeMonth": "97.33%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "93.23%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "99.78%",
     "time": 6193,
     "timeDay": 8425,
@@ -246,7 +246,7 @@
     "timeMonth": 7466,
     "timeYear": 6345,
     "dailyMinutesDown": {
-      "2025-09-03": 51,
+      "2025-09-03": 52,
       "2025-09-02": 113,
       "2025-09-01": 28,
       "2025-08-31": 67,
@@ -258,7 +258,7 @@
       "2025-08-25": 64,
       "2025-08-24": 94,
       "2025-08-23": 121,
-      "2025-08-22": 27
+      "2025-08-22": 23
     }
   },
   {
@@ -358,9 +358,9 @@
     "slug": "biosyslit",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.90%",
     "time": 1680,
     "timeDay": 4979,
@@ -368,7 +368,7 @@
     "timeMonth": 3434,
     "timeYear": 1684,
     "dailyMinutesDown": {
-      "2025-09-03": 1,
+      "2025-09-03": 23,
       "2025-09-02": 34,
       "2025-09-01": 4,
       "2025-08-28": 18,
@@ -464,7 +464,7 @@
     "timeMonth": 2626,
     "timeYear": 2649,
     "dailyMinutesDown": {
-      "2025-09-03": 157,
+      "2025-09-03": 179,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
