@@ -99,7 +99,7 @@
     "uptime": "89.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.96%",
-    "uptimeMonth": "95.91%",
+    "uptimeMonth": "95.96%",
     "uptimeYear": "78.46%",
     "time": 12985,
     "timeDay": 20302,
@@ -237,15 +237,15 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "88.06%",
-    "uptimeWeek": "83.25%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "99.64%",
-    "time": 6694,
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "83.34%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "99.65%",
+    "time": 6698,
     "timeDay": 13493,
-    "timeWeek": 11433,
+    "timeWeek": 11479,
     "timeMonth": 9482,
     "timeYear": 6941,
     "dailyMinutesDown": {
@@ -257,7 +257,7 @@
       "2025-09-06": 452,
       "2025-09-05": 438,
       "2025-09-04": 628,
-      "2025-09-03": 27
+      "2025-09-03": 14
     }
   },
   {
@@ -462,7 +462,7 @@
     "timeMonth": 2649,
     "timeYear": 2650,
     "dailyMinutesDown": {
-      "2025-09-11": 517,
+      "2025-09-11": 540,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
