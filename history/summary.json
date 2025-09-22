@@ -4,18 +4,20 @@
     "url": "https://www.plazi.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.plazi.org.ico",
     "slug": "plazi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
+    "time": 849,
     "timeDay": 801,
     "timeWeek": 843,
     "timeMonth": 866,
     "timeYear": 869,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 1
+    }
   },
   {
     "name": "SynoSpecies",
@@ -462,7 +464,7 @@
     "timeMonth": 2668,
     "timeYear": 2653,
     "dailyMinutesDown": {
-      "2025-09-22": 493,
+      "2025-09-22": 707,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
