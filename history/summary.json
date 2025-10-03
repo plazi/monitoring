@@ -52,7 +52,7 @@
     "timeDay": 3827,
     "timeWeek": 4164,
     "timeMonth": 5665,
-    "timeYear": 4504,
+    "timeYear": 4500,
     "dailyMinutesDown": {
       "2025-09-24": 10,
       "2025-09-22": 5,
@@ -240,19 +240,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "86.28%",
-    "uptimeWeek": "85.21%",
-    "uptimeMonth": "94.75%",
-    "uptimeYear": "99.56%",
-    "time": 7106,
-    "timeDay": 10890,
-    "timeWeek": 12448,
-    "timeMonth": 11142,
-    "timeYear": 7351,
+    "uptimeDay": "86.25%",
+    "uptimeWeek": "85.20%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "99.57%",
+    "time": 7113,
+    "timeDay": 11489,
+    "timeWeek": 12534,
+    "timeMonth": 11168,
+    "timeYear": 7358,
     "dailyMinutesDown": {
-      "2025-10-03": 156,
+      "2025-10-03": 157,
       "2025-10-02": 177,
       "2025-10-01": 390,
       "2025-09-30": 310,
@@ -269,7 +269,7 @@
       "2025-09-16": 103,
       "2025-09-15": 40,
       "2025-09-11": 170,
-      "2025-09-10": 25
+      "2025-09-10": 6
     }
   },
   {
@@ -469,7 +469,7 @@
     "timeMonth": 2651,
     "timeYear": 2654,
     "dailyMinutesDown": {
-      "2025-10-03": 600,
+      "2025-10-03": 632,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
