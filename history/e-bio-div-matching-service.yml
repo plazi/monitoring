@@ -1,7 +1,7 @@
 url: https://prod.ebiodiv.org/
-status: up
-code: 200
-responseTime: 520
-lastUpdated: 2025-10-21T13:07:03.014Z
+status: down
+code: 502
+responseTime: 705
+lastUpdated: 2025-10-21T13:23:05.508Z
 startTime: 2023-08-20T13:49:19.284Z
 generator: Upptime <https://github.com/upptime/upptime>
