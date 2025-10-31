@@ -246,18 +246,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "98.76%",
-    "uptimeMonth": "95.21%",
+    "uptimeMonth": "95.23%",
     "uptimeYear": "99.60%",
-    "time": 7554,
+    "time": 7556,
     "timeDay": 3798,
     "timeWeek": 5975,
-    "timeMonth": 11358,
+    "timeMonth": 11400,
     "timeYear": 7782,
     "dailyMinutesDown": {
+      "2025-10-31": 1,
       "2025-10-29": 15,
       "2025-10-28": 76,
       "2025-10-27": 28,
@@ -275,7 +276,7 @@
       "2025-10-07": 191,
       "2025-10-06": 179,
       "2025-10-05": 250,
-      "2025-10-04": 132
+      "2025-10-04": 120
     }
   },
   {
@@ -481,7 +482,7 @@
     "timeMonth": 2638,
     "timeYear": 2643,
     "dailyMinutesDown": {
-      "2025-10-31": 4,
+      "2025-10-31": 287,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -896,7 +897,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gg2rdf.ld.plazi.org.ico",
     "slug": "gg-2-rdf-service",
     "status": "up",
-    "uptime": "96.26%",
+    "uptime": "96.27%",
     "uptimeDay": "98.43%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
