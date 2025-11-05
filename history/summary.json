@@ -106,18 +106,19 @@
     "url": "https://treatment.ld.plazi.org/sparql?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/treatment.ld.plazi.org.ico",
     "slug": "ld-plazi-kingdoms",
-    "status": "up",
+    "status": "down",
     "uptime": "90.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "78.46%",
-    "time": 12451,
+    "time": 12444,
     "timeDay": 8262,
     "timeWeek": 10812,
     "timeMonth": 10620,
     "timeYear": 12898,
     "dailyMinutesDown": {
+      "2025-11-05": 1,
       "2025-10-27": 17,
       "2025-09-07": 4,
       "2025-08-21": 19,
@@ -240,7 +241,7 @@
       "2024-11-15": 5,
       "2024-11-14": 691,
       "2024-11-13": 292,
-      "2024-11-12": 29
+      "2024-11-12": 5
     }
   },
   {
@@ -480,7 +481,7 @@
     "timeMonth": 2639,
     "timeYear": 2644,
     "dailyMinutesDown": {
-      "2025-11-05": 971,
+      "2025-11-05": 1017,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -894,10 +895,10 @@
     "url": "https://gg2rdf.ld.plazi.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/gg2rdf.ld.plazi.org.ico",
     "slug": "gg-2-rdf-service",
-    "status": "up",
+    "status": "down",
     "uptime": "96.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.08%",
     "time": 660,
@@ -906,6 +907,7 @@
     "timeMonth": 673,
     "timeYear": 647,
     "dailyMinutesDown": {
+      "2025-11-05": 1,
       "2025-10-30": 23,
       "2025-10-27": 17,
       "2025-05-04": 12,
