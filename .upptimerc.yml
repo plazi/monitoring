@@ -30,6 +30,12 @@ sites:
   - name: GG2RDF Service
     url: https://gg2rdf.ld.plazi.org/status
     __dangerous__body_degraded: 'Failed'
+  - name: Turtle-Hook-nq Service (Staging for Lindas and qlever)
+    url: https://hooknq.ld.plazi.org/status
+    __dangerous__body_degraded: 'Failed'
+  - name: Turtle-Hook Service (Deployment to life endpoint)
+    url: https://hook.ld.plazi.org/status
+    __dangerous__body_degraded: 'Failed'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
