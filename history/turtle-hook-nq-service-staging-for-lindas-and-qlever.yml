@@ -1,7 +1,7 @@
 url: https://hooknq.ld.plazi.org/status
-status: up
+status: degraded
 code: 200
-responseTime: 713
-lastUpdated: 2025-11-07T12:57:45.027Z
+responseTime: 600
+lastUpdated: 2025-11-07T14:13:18.479Z
 startTime: 2025-11-07T12:57:44.310Z
 generator: Upptime <https://github.com/upptime/upptime>
