@@ -244,19 +244,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "90.43%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "94.79%",
+    "uptimeDay": "90.39%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "99.57%",
-    "time": 7710,
+    "time": 7713,
     "timeDay": 5748,
     "timeWeek": 10469,
     "timeMonth": 8661,
     "timeYear": 8016,
     "dailyMinutesDown": {
-      "2025-11-21": 76,
+      "2025-11-21": 77,
       "2025-11-20": 61,
       "2025-11-19": 146,
       "2025-11-18": 25,
@@ -269,7 +269,7 @@
       "2025-11-10": 523,
       "2025-11-09": 141,
       "2025-11-08": 258,
-      "2025-11-07": 27
+      "2025-11-07": 20
     }
   },
   {
@@ -372,8 +372,8 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.15%",
-    "uptimeMonth": "90.95%",
+    "uptimeWeek": "62.05%",
+    "uptimeMonth": "90.92%",
     "uptimeYear": "99.12%",
     "time": 2020,
     "timeDay": 1437,
@@ -381,7 +381,7 @@
     "timeMonth": 3247,
     "timeYear": 2209,
     "dailyMinutesDown": {
-      "2025-11-21": 572,
+      "2025-11-21": 582,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 350,
@@ -482,7 +482,7 @@
     "timeMonth": 2633,
     "timeYear": 2633,
     "dailyMinutesDown": {
-      "2025-11-21": 572,
+      "2025-11-21": 582,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
