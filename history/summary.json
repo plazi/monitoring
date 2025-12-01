@@ -246,18 +246,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "80.93%",
-    "uptimeWeek": "84.34%",
-    "uptimeMonth": "95.05%",
+    "uptimeDay": "80.90%",
+    "uptimeWeek": "84.46%",
+    "uptimeMonth": "95.10%",
     "uptimeYear": "99.59%",
-    "time": 7797,
+    "time": 7799,
     "timeDay": 8979,
     "timeWeek": 8672,
     "timeMonth": 9163,
     "timeYear": 8143,
     "dailyMinutesDown": {
+      "2025-12-01": 0,
       "2025-11-30": 274,
       "2025-11-29": 255,
       "2025-11-28": 246,
@@ -267,7 +268,7 @@
       "2025-11-24": 199,
       "2025-11-23": 277,
       "2025-11-22": 190,
-      "2025-11-21": 125
+      "2025-11-21": 102
     }
   },
   {
@@ -371,7 +372,7 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.52%",
+    "uptimeWeek": "90.93%",
     "uptimeMonth": "80.27%",
     "uptimeYear": "98.23%",
     "time": 2022,
@@ -486,7 +487,7 @@
     "timeMonth": 2664,
     "timeYear": 2634,
     "dailyMinutesDown": {
-      "2025-12-01": 6,
+      "2025-12-01": 47,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
