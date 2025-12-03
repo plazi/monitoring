@@ -249,7 +249,7 @@
     "status": "up",
     "uptime": "99.77%",
     "uptimeDay": "60.40%",
-    "uptimeWeek": "73.83%",
+    "uptimeWeek": "73.84%",
     "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 8013,
@@ -486,7 +486,7 @@
     "timeMonth": 2664,
     "timeYear": 2634,
     "dailyMinutesDown": {
-      "2025-12-03": 887,
+      "2025-12-03": 945,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -952,19 +952,19 @@
     "url": "https://hook.ld.plazi.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/hook.ld.plazi.org.ico",
     "slug": "turtle-hook-service-deployment-to-life-endpoint",
-    "status": "degraded",
-    "uptime": "99.90%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 614,
-    "timeDay": 866,
-    "timeWeek": 662,
-    "timeMonth": 614,
-    "timeYear": 614,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "93.49%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 609,
+    "timeDay": 734,
+    "timeWeek": 638,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {
-      "2025-12-03": 37
+      "2025-12-03": 94
     }
   }
 ]
