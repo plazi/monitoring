@@ -1,7 +1,7 @@
 url: https://hook.ld.plazi.org/status
-status: up
+status: degraded
 code: 200
-responseTime: 967
-lastUpdated: 2025-12-02T23:07:53.294Z
+responseTime: 765
+lastUpdated: 2025-12-03T14:10:42.779Z
 startTime: 2025-11-07T12:57:45.452Z
 generator: Upptime <https://github.com/upptime/upptime>
