@@ -110,7 +110,7 @@
     "slug": "ld-plazi-kingdoms",
     "status": "up",
     "uptime": "90.74%",
-    "uptimeDay": "0.04%",
+    "uptimeDay": "2.83%",
     "uptimeWeek": "80.10%",
     "uptimeMonth": "95.41%",
     "uptimeYear": "78.27%",
@@ -495,7 +495,8 @@
     "timeMonth": 2669,
     "timeYear": 2636,
     "dailyMinutesDown": {
-      "2025-12-09": 1404,
+      "2025-12-10": 4,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -858,8 +859,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -909,7 +909,7 @@
     "slug": "gg-2-rdf-service",
     "status": "up",
     "uptime": "96.28%",
-    "uptimeDay": "0.06%",
+    "uptimeDay": "2.84%",
     "uptimeWeek": "80.11%",
     "uptimeMonth": "95.20%",
     "uptimeYear": "97.87%",
@@ -966,7 +966,7 @@
     "slug": "turtle-hook-service-deployment-to-life-endpoint",
     "status": "up",
     "uptime": "95.51%",
-    "uptimeDay": "0.06%",
+    "uptimeDay": "2.84%",
     "uptimeWeek": "79.18%",
     "uptimeMonth": "95.21%",
     "uptimeYear": "95.51%",
