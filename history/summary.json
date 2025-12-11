@@ -250,11 +250,11 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "80.28%",
-    "uptimeWeek": "94.75%",
-    "uptimeMonth": "93.83%",
+    "uptimeDay": "80.25%",
+    "uptimeWeek": "94.74%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "99.49%",
     "time": 7950,
     "timeDay": 13420,
@@ -262,7 +262,7 @@
     "timeMonth": 9200,
     "timeYear": 8213,
     "dailyMinutesDown": {
-      "2025-12-11": 219,
+      "2025-12-11": 220,
       "2025-12-10": 158,
       "2025-12-09": 8,
       "2025-12-08": 16,
@@ -275,7 +275,7 @@
       "2025-12-01": 405,
       "2025-11-30": 274,
       "2025-11-29": 255,
-      "2025-11-28": 38
+      "2025-11-28": 4
     }
   },
   {
@@ -498,7 +498,7 @@
     "timeMonth": 2679,
     "timeYear": 2637,
     "dailyMinutesDown": {
-      "2025-12-11": 555,
+      "2025-12-11": 567,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -968,11 +968,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hook.ld.plazi.org.ico",
     "slug": "turtle-hook-service-deployment-to-life-endpoint",
     "status": "up",
-    "uptime": "95.69%",
+    "uptime": "95.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "80.70%",
     "uptimeMonth": "95.21%",
-    "uptimeYear": "95.69%",
+    "uptimeYear": "95.70%",
     "time": 606,
     "timeDay": 572,
     "timeWeek": 599,
