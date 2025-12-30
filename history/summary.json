@@ -248,19 +248,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "88.25%",
-    "uptimeMonth": "90.93%",
-    "uptimeYear": "99.24%",
-    "time": 8026,
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "88.24%",
+    "uptimeMonth": "90.96%",
+    "uptimeYear": "99.25%",
+    "time": 8028,
     "timeDay": 3036,
     "timeWeek": 4352,
     "timeMonth": 7520,
     "timeYear": 8201,
     "dailyMinutesDown": {
-      "2025-12-30": 34,
+      "2025-12-30": 35,
       "2025-12-29": 37,
       "2025-12-28": 12,
       "2025-12-27": 256,
@@ -283,7 +283,7 @@
       "2025-12-04": 14,
       "2025-12-03": 376,
       "2025-12-02": 825,
-      "2025-12-01": 299
+      "2025-12-01": 288
     }
   },
   {
@@ -316,7 +316,7 @@
     "uptime": "96.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.72%",
+    "uptimeMonth": "43.70%",
     "uptimeYear": "94.86%",
     "time": 1046,
     "timeDay": 560,
@@ -324,7 +324,7 @@
     "timeMonth": 593,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2025-12-30": 1352,
+      "2025-12-30": 1361,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -531,7 +531,7 @@
     "timeMonth": 2819,
     "timeYear": 2653,
     "dailyMinutesDown": {
-      "2025-12-30": 1353,
+      "2025-12-30": 1362,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
