@@ -234,19 +234,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "89.59%",
-    "uptimeWeek": "94.95%",
+    "uptimeDay": "89.55%",
+    "uptimeWeek": "94.94%",
     "uptimeMonth": "96.26%",
     "uptimeYear": "99.27%",
-    "time": 7985,
+    "time": 7987,
     "timeDay": 3593,
     "timeWeek": 3775,
     "timeMonth": 3907,
     "timeYear": 8220,
     "dailyMinutesDown": {
-      "2026-01-31": 56,
+      "2026-01-31": 57,
       "2026-01-30": 116,
       "2026-01-29": 31,
       "2026-01-28": 28,
@@ -279,7 +279,7 @@
       "2025-12-13": 6,
       "2025-12-12": 157,
       "2025-12-11": 685,
-      "2025-12-10": 52
+      "2025-12-10": 31
     }
   },
   {
@@ -321,7 +321,7 @@
     "timeMonth": 572,
     "timeYear": 1004,
     "dailyMinutesDown": {
-      "2026-01-31": 378,
+      "2026-01-31": 393,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -555,7 +555,7 @@
     "timeMonth": 2663,
     "timeYear": 2658,
     "dailyMinutesDown": {
-      "2026-01-31": 378,
+      "2026-01-31": 394,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
