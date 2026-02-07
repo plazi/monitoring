@@ -313,18 +313,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.zenodeo.org.ico",
     "slug": "zenodeo-query",
     "status": "down",
-    "uptime": "92.74%",
+    "uptime": "92.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.53%",
+    "uptimeYear": "84.52%",
     "time": 1041,
     "timeDay": 401,
     "timeWeek": 535,
     "timeMonth": 571,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2026-02-06": 1392,
+      "2026-02-07": 6,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -561,7 +562,8 @@
     "timeMonth": 2681,
     "timeYear": 2660,
     "dailyMinutesDown": {
-      "2026-02-06": 1392,
+      "2026-02-07": 7,
+      "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
@@ -924,8 +926,7 @@
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
-      "2025-02-08": 1440,
-      "2025-02-07": 1440
+      "2025-02-08": 1440
     }
   },
   {
@@ -972,7 +973,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gg2rdf.ld.plazi.org.ico",
     "slug": "gg-2-rdf-service",
     "status": "up",
-    "uptime": "96.53%",
+    "uptime": "96.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
