@@ -430,18 +430,19 @@
     "url": "https://zenodo.org/communities/biosyslit/",
     "icon": "https://icons.duckduckgo.com/ip3/zenodo.org.ico",
     "slug": "biosyslit",
-    "status": "down",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "98.05%",
-    "time": 2560,
-    "timeDay": 16281,
-    "timeWeek": 6935,
-    "timeMonth": 4270,
-    "timeYear": 2772,
+    "time": 2561,
+    "timeDay": 13295,
+    "timeWeek": 6536,
+    "timeMonth": 4197,
+    "timeYear": 2769,
     "dailyMinutesDown": {
+      "2026-05-08": 27,
       "2026-05-07": 38,
       "2026-05-06": 7,
       "2026-05-05": 67,
@@ -505,8 +506,7 @@
       "2025-09-03": 95,
       "2025-09-02": 34,
       "2025-09-01": 4,
-      "2025-08-28": 18,
-      "2025-08-27": 8
+      "2025-08-28": 18
     }
   },
   {
@@ -565,7 +565,7 @@
     "timeMonth": 0,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2026-05-08": 525,
+      "2026-05-08": 552,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
