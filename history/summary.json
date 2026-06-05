@@ -4,19 +4,20 @@
     "url": "https://www.plazi.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.plazi.org.ico",
     "slug": "plazi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
+    "time": 860,
     "timeDay": 1039,
     "timeWeek": 855,
     "timeMonth": 766,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2025-09-22": 6
+      "2025-09-22": 6,
+      "2026-06-05": 2
     }
   },
   {
@@ -24,10 +25,10 @@
     "url": "https://synospecies.plazi.org",
     "icon": "https://icons.duckduckgo.com/ip3/synospecies.plazi.org.ico",
     "slug": "syno-species",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
@@ -35,7 +36,9 @@
     "timeWeek": 384,
     "timeMonth": 361,
     "timeYear": 398,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-05": 2
+    }
   },
   {
     "name": "Lindas Kingdoms",
@@ -45,7 +48,7 @@
     "status": "up",
     "uptime": "98.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.12%",
+    "uptimeWeek": "96.79%",
     "uptimeMonth": "57.67%",
     "uptimeYear": "96.19%",
     "time": 4952,
@@ -116,13 +119,13 @@
     "url": "https://treatment.ld.plazi.org/sparql?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/treatment.ld.plazi.org.ico",
     "slug": "ld-plazi-kingdoms",
-    "status": "up",
+    "status": "down",
     "uptime": "92.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "80.32%",
-    "time": 10330,
+    "time": 10289,
     "timeDay": 9390,
     "timeWeek": 9932,
     "timeMonth": 9652,
@@ -209,7 +212,8 @@
       "2026-02-22": 894,
       "2026-02-21": 1440,
       "2026-02-20": 1352,
-      "2026-04-23": 38
+      "2026-04-23": 38,
+      "2026-06-05": 2
     }
   },
   {
@@ -217,19 +221,19 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.25%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 8264,
     "timeDay": 4393,
     "timeWeek": 3867,
     "timeMonth": 5826,
     "timeYear": 8417,
     "dailyMinutesDown": {
-      "2026-01-26": 27,
+      "2026-01-26": 11,
       "2026-01-27": 149,
       "2026-01-28": 28,
       "2026-01-29": 31,
@@ -272,7 +276,8 @@
       "2026-05-10": 22,
       "2026-05-13": 77,
       "2026-05-14": 40,
-      "2026-05-15": 190
+      "2026-05-15": 190,
+      "2026-06-05": 1
     }
   },
   {
@@ -302,7 +307,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.zenodeo.org.ico",
     "slug": "zenodeo-query",
     "status": "up",
-    "uptime": "89.76%",
+    "uptime": "89.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -436,12 +441,12 @@
     "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.16%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "98.01%",
     "time": 2815,
     "timeDay": 1427,
     "timeWeek": 2382,
-    "timeMonth": 6091,
+    "timeMonth": 6197,
     "timeYear": 2980,
     "dailyMinutesDown": {
       "2025-09-02": 34,
@@ -565,7 +570,7 @@
     "timeMonth": 0,
     "timeYear": 2685,
     "dailyMinutesDown": {
-      "2026-06-05": 27,
+      "2026-06-05": 700,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -973,13 +978,13 @@
     "url": "https://gg2rdf.ld.plazi.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/gg2rdf.ld.plazi.org.ico",
     "slug": "gg-2-rdf-service",
-    "status": "up",
+    "status": "down",
     "uptime": "96.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
-    "time": 656,
+    "time": 655,
     "timeDay": 595,
     "timeWeek": 645,
     "timeMonth": 604,
@@ -995,7 +1000,8 @@
       "2026-02-17": 88,
       "2026-02-22": 894,
       "2026-02-21": 1440,
-      "2026-02-20": 1352
+      "2026-02-20": 1352,
+      "2026-06-05": 1
     }
   },
   {
@@ -1003,7 +1009,7 @@
     "url": "https://hooknq.ld.plazi.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/hooknq.ld.plazi.org.ico",
     "slug": "turtle-hook-nq-service-staging-for-lindas-and-qlever",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -1021,12 +1027,12 @@
     "url": "https://hook.ld.plazi.org/status",
     "icon": "https://icons.duckduckgo.com/ip3/hook.ld.plazi.org.ico",
     "slug": "turtle-hook-service-deployment-to-life-endpoint",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "97.35%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.35%",
     "time": 623,
     "timeDay": 594,
     "timeWeek": 565,
@@ -1040,7 +1046,8 @@
       "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
-      "2026-02-18": 705
+      "2026-02-18": 705,
+      "2026-06-05": 1
     }
   }
 ]
