@@ -49,7 +49,7 @@
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.40%",
+    "uptimeMonth": "85.39%",
     "uptimeYear": "96.17%",
     "time": 4920,
     "timeDay": 4736,
@@ -126,7 +126,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "85.57%",
+    "uptimeYear": "85.65%",
     "time": 9897,
     "timeDay": 10203,
     "timeWeek": 10191,
@@ -213,7 +213,7 @@
     "timeDay": 4495,
     "timeWeek": 4090,
     "timeMonth": 3913,
-    "timeYear": 8355,
+    "timeYear": 8366,
     "dailyMinutesDown": {
       "2026-01-26": 11,
       "2026-01-27": 149,
@@ -502,10 +502,10 @@
     "url": "https://sibils.text-analytics.ch/search/",
     "icon": "https://icons.duckduckgo.com/ip3/sibils.text-analytics.ch.ico",
     "slug": "biodiversity-pmc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 2160,
@@ -530,7 +530,8 @@
       "2026-02-24": 32,
       "2026-02-25": 21,
       "2026-04-02": 155,
-      "2026-04-01": 21
+      "2026-04-01": 21,
+      "2026-06-25": 2
     }
   },
   {
@@ -539,7 +540,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/denver.hesge.ch.ico",
     "slug": "biodiversity-pmc-query",
     "status": "down",
-    "uptime": "7.27%",
+    "uptime": "7.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -550,7 +551,7 @@
     "timeMonth": 0,
     "timeYear": 2687,
     "dailyMinutesDown": {
-      "2026-06-25": 27,
+      "2026-06-25": 459,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
