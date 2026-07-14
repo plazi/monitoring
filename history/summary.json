@@ -35,7 +35,7 @@
     "timeDay": 350,
     "timeWeek": 356,
     "timeMonth": 362,
-    "timeYear": 395,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2026-06-05": 120
     }
@@ -55,7 +55,7 @@
     "timeDay": 4910,
     "timeWeek": 11641,
     "timeMonth": 6404,
-    "timeYear": 4924,
+    "timeYear": 4911,
     "dailyMinutesDown": {
       "2025-07-15": 21,
       "2025-07-28": 41,
@@ -123,13 +123,13 @@
     "uptime": "91.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.76%",
+    "uptimeMonth": "56.72%",
     "uptimeYear": "87.43%",
     "time": 10354,
     "timeDay": 30580,
     "timeWeek": 30538,
     "timeMonth": 19349,
-    "timeYear": 10599,
+    "timeYear": 10597,
     "dailyMinutesDown": {
       "2025-08-12": 838,
       "2025-08-11": 1440,
@@ -175,7 +175,7 @@
       "2026-02-20": 1352,
       "2026-04-23": 38,
       "2026-06-05": 120,
-      "2026-07-14": 1376,
+      "2026-07-14": 1395,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -206,7 +206,7 @@
     "timeDay": 4188,
     "timeWeek": 4301,
     "timeMonth": 4007,
-    "timeYear": 8368,
+    "timeYear": 8371,
     "dailyMinutesDown": {
       "2026-01-26": 11,
       "2026-01-27": 149,
@@ -420,7 +420,7 @@
     "timeDay": 1368,
     "timeWeek": 5293,
     "timeMonth": 2676,
-    "timeYear": 3095,
+    "timeYear": 3098,
     "dailyMinutesDown": {
       "2025-09-02": 28,
       "2025-09-03": 95,
@@ -496,17 +496,17 @@
     "url": "https://sibils.text-analytics.ch/search/",
     "icon": "https://icons.duckduckgo.com/ip3/sibils.text-analytics.ch.ico",
     "slug": "biodiversity-pmc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.59%",
-    "time": 2175,
-    "timeDay": 2081,
-    "timeWeek": 2018,
-    "timeMonth": 2027,
-    "timeYear": 2342,
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.58%",
+    "time": 2176,
+    "timeDay": 2153,
+    "timeWeek": 2049,
+    "timeMonth": 2035,
+    "timeYear": 2344,
     "dailyMinutesDown": {
       "2025-07-29": 471,
       "2025-07-28": 1074,
@@ -525,7 +525,7 @@
       "2026-04-02": 155,
       "2026-04-01": 21,
       "2026-06-25": 59,
-      "2026-07-14": 33
+      "2026-07-14": 42
     }
   },
   {
@@ -543,9 +543,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2688,
+    "timeYear": 2689,
     "dailyMinutesDown": {
-      "2026-07-14": 1376,
+      "2026-07-14": 1395,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -919,15 +919,15 @@
     "slug": "e-bio-div-matching-service",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "53.80%",
-    "uptimeWeek": "93.40%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "52.48%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "99.51%",
     "time": 833,
     "timeDay": 594,
     "timeWeek": 525,
     "timeMonth": 624,
-    "timeYear": 879,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2025-07-29": 472,
       "2025-07-28": 1073,
@@ -944,7 +944,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-07-14": 665
+      "2026-07-14": 684
     }
   },
   {
