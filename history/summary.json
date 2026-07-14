@@ -48,7 +48,7 @@
     "status": "up",
     "uptime": "98.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "96.16%",
     "time": 5002,
@@ -123,7 +123,7 @@
     "uptime": "91.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.28%",
+    "uptimeMonth": "58.23%",
     "uptimeYear": "87.43%",
     "time": 10354,
     "timeDay": 30580,
@@ -175,7 +175,7 @@
       "2026-02-20": 1352,
       "2026-04-23": 38,
       "2026-06-05": 120,
-      "2026-07-14": 711,
+      "2026-07-14": 734,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -496,17 +496,17 @@
     "url": "https://sibils.text-analytics.ch/search/",
     "icon": "https://icons.duckduckgo.com/ip3/sibils.text-analytics.ch.ico",
     "slug": "biodiversity-pmc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.59%",
     "time": 2175,
-    "timeDay": 2158,
-    "timeWeek": 2021,
-    "timeMonth": 2028,
-    "timeYear": 2343,
+    "timeDay": 2081,
+    "timeWeek": 2018,
+    "timeMonth": 2027,
+    "timeYear": 2342,
     "dailyMinutesDown": {
       "2025-07-29": 471,
       "2025-07-28": 1074,
@@ -525,7 +525,7 @@
       "2026-04-02": 155,
       "2026-04-01": 21,
       "2026-06-25": 59,
-      "2026-07-14": 10
+      "2026-07-14": 23
     }
   },
   {
@@ -545,7 +545,7 @@
     "timeMonth": 0,
     "timeYear": 2688,
     "dailyMinutesDown": {
-      "2026-07-14": 712,
+      "2026-07-14": 735,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -919,9 +919,9 @@
     "slug": "e-bio-div-matching-service",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.64%",
     "time": 833,
     "timeDay": 594,
@@ -944,7 +944,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-07-14": 1
+      "2026-07-14": 24
     }
   },
   {
