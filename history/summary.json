@@ -46,10 +46,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/lindas.admin.ch.ico",
     "slug": "lindas-kingdoms",
     "status": "down",
-    "uptime": "98.57%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.68%",
+    "uptime": "98.56%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "96.15%",
     "time": 4883,
     "timeDay": 0,
@@ -114,7 +114,7 @@
       "2026-08-01": 29,
       "2026-08-02": 19,
       "2026-08-07": 24,
-      "2026-08-16": 37
+      "2026-08-16": 50
     }
   },
   {
@@ -148,7 +148,7 @@
       "2026-02-20": 1352,
       "2026-04-23": 38,
       "2026-06-05": 120,
-      "2026-08-16": 1410,
+      "2026-08-16": 1423,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -202,17 +202,17 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "90.66%",
-    "uptimeMonth": "95.91%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "95.89%",
     "uptimeYear": "99.11%",
-    "time": 8751,
-    "timeDay": 11802,
-    "timeWeek": 15909,
-    "timeMonth": 13722,
-    "timeYear": 8777,
+    "time": 8740,
+    "timeDay": 11119,
+    "timeWeek": 15767,
+    "timeMonth": 13668,
+    "timeYear": 8776,
     "dailyMinutesDown": {
       "2026-03-09": 28,
       "2026-03-18": 57,
@@ -248,7 +248,7 @@
       "2026-08-13": 241,
       "2026-08-14": 206,
       "2026-08-15": 30,
-      "2026-08-16": 23
+      "2026-08-16": 31
     }
   },
   {
@@ -542,7 +542,7 @@
     "timeMonth": 0,
     "timeYear": 2690,
     "dailyMinutesDown": {
-      "2026-08-16": 1410,
+      "2026-08-16": 1424,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -939,7 +939,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-08-16": 1410,
+      "2026-08-16": 1424,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
