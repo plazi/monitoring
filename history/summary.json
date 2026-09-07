@@ -128,10 +128,10 @@
     "slug": "ld-plazi-kingdoms",
     "status": "down",
     "uptime": "88.21%",
-    "uptimeDay": "74.46%",
-    "uptimeWeek": "96.35%",
+    "uptimeDay": "66.58%",
+    "uptimeWeek": "95.23%",
     "uptimeMonth": "54.07%",
-    "uptimeYear": "84.89%",
+    "uptimeYear": "84.87%",
     "time": 11919,
     "timeDay": 20209,
     "timeWeek": 14003,
@@ -202,7 +202,7 @@
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 284,
-      "2026-09-07": 368
+      "2026-09-07": 481
     }
   },
   {
@@ -412,19 +412,19 @@
     "url": "https://zenodo.org/communities/biosyslit/",
     "icon": "https://icons.duckduckgo.com/ip3/zenodo.org.ico",
     "slug": "biosyslit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "97.97%",
-    "time": 3528,
-    "timeDay": 14141,
-    "timeWeek": 13559,
-    "timeMonth": 8736,
-    "timeYear": 3710,
+    "time": 3571,
+    "timeDay": 16176,
+    "timeWeek": 14325,
+    "timeMonth": 9145,
+    "timeYear": 3760,
     "dailyMinutesDown": {
-      "2025-09-29": 17,
+      "2025-09-29": 11,
       "2025-10-03": 9,
       "2025-10-04": 31,
       "2025-10-07": 8,
@@ -494,7 +494,7 @@
       "2026-08-31": 7,
       "2026-09-01": 22,
       "2026-09-03": 28,
-      "2026-09-07": 29
+      "2026-09-07": 35
     }
   },
   {
@@ -551,7 +551,7 @@
     "timeMonth": 0,
     "timeYear": 2695,
     "dailyMinutesDown": {
-      "2026-09-07": 1256,
+      "2026-09-07": 1370,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
@@ -928,7 +928,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.77%",
+    "uptimeYear": "84.75%",
     "time": 851,
     "timeDay": 0,
     "timeWeek": 0,
@@ -946,7 +946,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-09-07": 1256,
+      "2026-09-07": 1370,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
