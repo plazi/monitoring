@@ -45,13 +45,13 @@
     "url": "https://lindas.admin.ch/query?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/lindas.admin.ch.ico",
     "slug": "lindas-kingdoms",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "96.09%",
-    "time": 4821,
+    "time": 4823,
     "timeDay": 5041,
     "timeWeek": 4801,
     "timeMonth": 4561,
@@ -118,7 +118,7 @@
       "2026-08-21": 7,
       "2026-08-30": 24,
       "2026-09-04": 7,
-      "2026-09-07": 14
+      "2026-09-07": 21
     }
   },
   {
@@ -128,8 +128,8 @@
     "slug": "ld-plazi-kingdoms",
     "status": "down",
     "uptime": "88.22%",
-    "uptimeDay": "80.03%",
-    "uptimeWeek": "97.15%",
+    "uptimeDay": "79.12%",
+    "uptimeWeek": "97.02%",
     "uptimeMonth": "54.07%",
     "uptimeYear": "84.91%",
     "time": 11919,
@@ -202,7 +202,7 @@
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 284,
-      "2026-09-07": 288
+      "2026-09-07": 301
     }
   },
   {
@@ -412,17 +412,17 @@
     "url": "https://zenodo.org/communities/biosyslit/",
     "icon": "https://icons.duckduckgo.com/ip3/zenodo.org.ico",
     "slug": "biosyslit",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "97.97%",
-    "time": 3484,
-    "timeDay": 16160,
-    "timeWeek": 13911,
-    "timeMonth": 8570,
-    "timeYear": 3667,
+    "time": 3486,
+    "timeDay": 13425,
+    "timeWeek": 13309,
+    "timeMonth": 8448,
+    "timeYear": 3665,
     "dailyMinutesDown": {
       "2025-09-22": 12,
       "2025-09-29": 17,
@@ -495,7 +495,7 @@
       "2026-08-31": 7,
       "2026-09-01": 22,
       "2026-09-03": 28,
-      "2026-09-07": 14
+      "2026-09-07": 21
     }
   },
   {
@@ -552,7 +552,7 @@
     "timeMonth": 0,
     "timeYear": 2695,
     "dailyMinutesDown": {
-      "2026-09-07": 1176,
+      "2026-09-07": 1189,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
@@ -947,7 +947,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-09-07": 1176,
+      "2026-09-07": 1189,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
