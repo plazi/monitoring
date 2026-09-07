@@ -128,8 +128,8 @@
     "slug": "ld-plazi-kingdoms",
     "status": "down",
     "uptime": "88.21%",
-    "uptimeDay": "66.58%",
-    "uptimeWeek": "95.23%",
+    "uptimeDay": "66.03%",
+    "uptimeWeek": "95.15%",
     "uptimeMonth": "54.07%",
     "uptimeYear": "84.87%",
     "time": 11919,
@@ -202,7 +202,7 @@
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 284,
-      "2026-09-07": 481
+      "2026-09-07": 489
     }
   },
   {
@@ -412,17 +412,17 @@
     "url": "https://zenodo.org/communities/biosyslit/",
     "icon": "https://icons.duckduckgo.com/ip3/zenodo.org.ico",
     "slug": "biosyslit",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.15%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "99.13%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "97.97%",
     "time": 3571,
-    "timeDay": 16176,
-    "timeWeek": 14325,
-    "timeMonth": 9145,
-    "timeYear": 3760,
+    "timeDay": 14546,
+    "timeWeek": 13768,
+    "timeMonth": 9003,
+    "timeYear": 3756,
     "dailyMinutesDown": {
       "2025-09-29": 11,
       "2025-10-03": 9,
@@ -494,7 +494,7 @@
       "2026-08-31": 7,
       "2026-09-01": 22,
       "2026-09-03": 28,
-      "2026-09-07": 35
+      "2026-09-07": 37
     }
   },
   {
@@ -551,7 +551,7 @@
     "timeMonth": 0,
     "timeYear": 2695,
     "dailyMinutesDown": {
-      "2026-09-07": 1370,
+      "2026-09-07": 1378,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
@@ -946,7 +946,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-09-07": 1370,
+      "2026-09-07": 1378,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
