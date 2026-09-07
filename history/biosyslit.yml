@@ -1,7 +1,7 @@
 url: https://zenodo.org/communities/biosyslit/
-status: up
-code: 200
-responseTime: 1223
-lastUpdated: 2026-09-06T23:14:18.872Z
+status: down
+code: 504
+responseTime: 30423
+lastUpdated: 2026-09-07T14:50:01.725Z
 startTime: 2023-08-20T13:35:57.482Z
 generator: Upptime <https://github.com/upptime/upptime>
