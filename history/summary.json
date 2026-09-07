@@ -128,10 +128,10 @@
     "slug": "ld-plazi-kingdoms",
     "status": "down",
     "uptime": "88.21%",
-    "uptimeDay": "75.01%",
-    "uptimeWeek": "96.43%",
+    "uptimeDay": "74.46%",
+    "uptimeWeek": "96.35%",
     "uptimeMonth": "54.07%",
-    "uptimeYear": "84.90%",
+    "uptimeYear": "84.89%",
     "time": 11919,
     "timeDay": 20209,
     "timeWeek": 14003,
@@ -202,7 +202,7 @@
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 284,
-      "2026-09-07": 360
+      "2026-09-07": 368
     }
   },
   {
@@ -412,17 +412,17 @@
     "url": "https://zenodo.org/communities/biosyslit/",
     "icon": "https://icons.duckduckgo.com/ip3/zenodo.org.ico",
     "slug": "biosyslit",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "97.97%",
-    "time": 3529,
-    "timeDay": 16295,
-    "timeWeek": 14176,
-    "timeMonth": 8883,
-    "timeYear": 3715,
+    "time": 3528,
+    "timeDay": 14141,
+    "timeWeek": 13559,
+    "timeMonth": 8736,
+    "timeYear": 3710,
     "dailyMinutesDown": {
       "2025-09-29": 17,
       "2025-10-03": 9,
@@ -494,7 +494,7 @@
       "2026-08-31": 7,
       "2026-09-01": 22,
       "2026-09-03": 28,
-      "2026-09-07": 27
+      "2026-09-07": 29
     }
   },
   {
@@ -551,7 +551,7 @@
     "timeMonth": 0,
     "timeYear": 2695,
     "dailyMinutesDown": {
-      "2026-09-07": 1248,
+      "2026-09-07": 1256,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
@@ -946,7 +946,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-09-07": 1248,
+      "2026-09-07": 1256,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
@@ -1048,7 +1048,7 @@
     "uptimeYear": "100.00%",
     "time": 652,
     "timeDay": 697,
-    "timeWeek": 992,
+    "timeWeek": 1032,
     "timeMonth": 789,
     "timeYear": 652,
     "dailyMinutesDown": {}
