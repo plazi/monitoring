@@ -45,13 +45,13 @@
     "url": "https://lindas.admin.ch/query?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/lindas.admin.ch.ico",
     "slug": "lindas-kingdoms",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "96.11%",
-    "time": 4852,
+    "time": 4856,
     "timeDay": 4909,
     "timeWeek": 4777,
     "timeMonth": 4568,
@@ -120,7 +120,8 @@
       "2026-09-11": 7,
       "2026-09-12": 7,
       "2026-09-14": 14,
-      "2026-09-15": 30
+      "2026-09-15": 30,
+      "2026-09-16": 7
     }
   },
   {
@@ -132,7 +133,7 @@
     "uptime": "88.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.34%",
+    "uptimeMonth": "81.37%",
     "uptimeYear": "84.75%",
     "time": 12000,
     "timeDay": 11041,
@@ -415,9 +416,9 @@
     "slug": "biosyslit",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "85.30%",
-    "uptimeMonth": "94.42%",
+    "uptimeDay": "94.79%",
+    "uptimeWeek": "85.17%",
+    "uptimeMonth": "94.39%",
     "uptimeYear": "99.25%",
     "time": 5372,
     "timeDay": 17011,
@@ -468,7 +469,7 @@
       "2026-09-13": 601,
       "2026-09-14": 145,
       "2026-09-15": 7,
-      "2026-09-16": 56
+      "2026-09-16": 69
     }
   },
   {
@@ -525,7 +526,7 @@
     "timeMonth": 0,
     "timeYear": 2698,
     "dailyMinutesDown": {
-      "2026-09-16": 1011,
+      "2026-09-16": 1024,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -920,7 +921,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-09-16": 1011,
+      "2026-09-16": 1024,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
