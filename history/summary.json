@@ -44,17 +44,17 @@
     "url": "https://lindas.admin.ch/query?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/lindas.admin.ch.ico",
     "slug": "lindas-kingdoms",
-    "status": "down",
+    "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "96.11%",
-    "time": 4864,
-    "timeDay": 4901,
-    "timeWeek": 4823,
-    "timeMonth": 4782,
-    "timeYear": 4818,
+    "time": 4865,
+    "timeDay": 4950,
+    "timeWeek": 4845,
+    "timeMonth": 4786,
+    "timeYear": 4819,
     "dailyMinutesDown": {
       "2025-10-07": 28,
       "2025-10-14": 11,
@@ -118,7 +118,7 @@
       "2026-09-15": 30,
       "2026-09-16": 8,
       "2026-09-17": 8,
-      "2026-09-27": 6
+      "2026-09-27": 9
     }
   },
   {
@@ -525,7 +525,7 @@
     "timeMonth": 0,
     "timeYear": 2701,
     "dailyMinutesDown": {
-      "2026-09-27": 788,
+      "2026-09-27": 796,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -920,7 +920,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-09-27": 788,
+      "2026-09-27": 796,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
