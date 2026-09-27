@@ -13,7 +13,7 @@
     "time": 855,
     "timeDay": 791,
     "timeWeek": 692,
-    "timeMonth": 838,
+    "timeMonth": 836,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2026-06-05": 121
@@ -33,7 +33,7 @@
     "time": 399,
     "timeDay": 277,
     "timeWeek": 428,
-    "timeMonth": 420,
+    "timeMonth": 419,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2026-06-05": 120
@@ -44,16 +44,16 @@
     "url": "https://lindas.admin.ch/query?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/lindas.admin.ch.ico",
     "slug": "lindas-kingdoms",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "96.12%",
-    "time": 4875,
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "96.11%",
+    "time": 4864,
     "timeDay": 4901,
     "timeWeek": 4823,
-    "timeMonth": 4797,
+    "timeMonth": 4782,
     "timeYear": 4818,
     "dailyMinutesDown": {
       "2025-10-07": 28,
@@ -117,7 +117,8 @@
       "2026-09-14": 14,
       "2026-09-15": 30,
       "2026-09-16": 8,
-      "2026-09-17": 8
+      "2026-09-17": 8,
+      "2026-09-27": 6
     }
   },
   {
@@ -134,7 +135,7 @@
     "time": 12142,
     "timeDay": 11157,
     "timeWeek": 10823,
-    "timeMonth": 13432,
+    "timeMonth": 13520,
     "timeYear": 12797,
     "dailyMinutesDown": {
       "2025-10-27": 17,
@@ -220,7 +221,7 @@
     "time": 8426,
     "timeDay": 4420,
     "timeWeek": 3892,
-    "timeMonth": 3722,
+    "timeMonth": 3719,
     "timeYear": 8389,
     "dailyMinutesDown": {
       "2026-04-25": 140,
@@ -271,7 +272,7 @@
     "time": 222,
     "timeDay": 116,
     "timeWeek": 145,
-    "timeMonth": 192,
+    "timeMonth": 194,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-11-23": 9,
@@ -284,7 +285,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.zenodeo.org.ico",
     "slug": "zenodeo-query",
     "status": "up",
-    "uptime": "90.79%",
+    "uptime": "90.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
@@ -292,7 +293,7 @@
     "time": 643,
     "timeDay": 652,
     "timeWeek": 811,
-    "timeMonth": 888,
+    "timeMonth": 894,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-10-15": 5,
@@ -420,7 +421,7 @@
     "time": 5617,
     "timeDay": 1753,
     "timeWeek": 1694,
-    "timeMonth": 15104,
+    "timeMonth": 15186,
     "timeYear": 6196,
     "dailyMinutesDown": {
       "2026-01-14": 22,
@@ -482,7 +483,7 @@
     "time": 2184,
     "timeDay": 1512,
     "timeWeek": 1501,
-    "timeMonth": 1767,
+    "timeMonth": 1777,
     "timeYear": 2284,
     "dailyMinutesDown": {
       "2025-10-20": 19,
@@ -524,7 +525,7 @@
     "timeMonth": 0,
     "timeYear": 2701,
     "dailyMinutesDown": {
-      "2026-09-27": 7,
+      "2026-09-27": 788,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -897,11 +898,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.ebiodiv.org.ico",
     "slug": "e-bio-div-matching-service",
     "status": "down",
-    "uptime": "93.08%",
+    "uptime": "93.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.53%",
+    "uptimeYear": "79.38%",
     "time": 863,
     "timeDay": 0,
     "timeWeek": 0,
@@ -919,7 +920,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-09-27": 7,
+      "2026-09-27": 788,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -1011,7 +1012,7 @@
     "time": 670,
     "timeDay": 868,
     "timeWeek": 727,
-    "timeMonth": 776,
+    "timeMonth": 774,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2025-10-27": 17,
@@ -1042,7 +1043,7 @@
     "time": 656,
     "timeDay": 805,
     "timeWeek": 664,
-    "timeMonth": 784,
+    "timeMonth": 787,
     "timeYear": 656,
     "dailyMinutesDown": {}
   },
@@ -1060,7 +1061,7 @@
     "time": 641,
     "timeDay": 910,
     "timeWeek": 685,
-    "timeMonth": 724,
+    "timeMonth": 728,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-12-03": 154,
