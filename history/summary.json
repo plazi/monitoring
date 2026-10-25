@@ -216,17 +216,17 @@
     "url": "https://tb.plazi.org/GgServer/search?fullText.ftQuery=lepus&fullText.matchMode=prefix&taxonomicName.taxonomicName=&taxonomicName.isNomenclature=true&taxonomicName.exactMatch=true&taxonomicName.order=&taxonomicName.family=&taxonomicName.genus=&taxonomicName.species=&BibMetaData.docAuthor=&BibMetaData.docDate=&BibMetaData.docTitle=&BibMetaData.docOrigin=&BibMetaData.part=&BibMetaData.pageNumber=&BibMetaData.extId=&materialsCitation.location=&materialsCitation.country=&materialsCitation.stateProvince=&materialsCitation.typeStatus=All+Types&materialsCitation.collectionCode=&materialsCitation.specimenCode=&materialsCitation.LSID=&materialsCitation.longitude=&materialsCitation.latitude=&materialsCitation.degreeCircle=1&materialsCitation.elevation=&materialsCitation.elevationCircle=100&indexName=0&subIndexName=0&minSubResultSize=0",
     "icon": "https://icons.duckduckgo.com/ip3/tb.plazi.org.ico",
     "slug": "treatmentbank",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.35%",
-    "time": 7743,
-    "timeDay": 2242,
-    "timeWeek": 3291,
-    "timeMonth": 3745,
-    "timeYear": 7611,
+    "time": 7734,
+    "timeDay": 2811,
+    "timeWeek": 3351,
+    "timeMonth": 3750,
+    "timeYear": 7608,
     "dailyMinutesDown": {
       "2026-04-26": 255,
       "2026-04-25": 40,
@@ -263,7 +263,7 @@
       "2026-10-12": 17,
       "2026-10-13": 20,
       "2026-10-23": 8,
-      "2026-10-25": 5
+      "2026-10-25": 6
     }
   },
   {
@@ -537,7 +537,7 @@
     "timeMonth": 0,
     "timeYear": 2715,
     "dailyMinutesDown": {
-      "2026-10-25": 487,
+      "2026-10-25": 494,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -930,7 +930,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-10-25": 487,
+      "2026-10-25": 494,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
