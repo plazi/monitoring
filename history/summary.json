@@ -126,17 +126,17 @@
     "url": "https://treatment.ld.plazi.org/sparql?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0ASELECT%20DISTINCT%20%3Fk%20(SAMPLE(%3Fs1)%20as%20%3Fs)%0AWHERE%20%7B%0A%20%20%3Fs1%20a%20%3Chttp%3A%2F%2Ffilteredpush.org%2Fontologies%2Foa%2FdwcFP%23TaxonName%3E%3B%0A%20%20%3Chttp%3A%2F%2Frs.tdwg.org%2Fdwc%2Fterms%2Fkingdom%3E%20%3Fk.%0A%7D%0AGROUP%20BY%20%3Fk",
     "icon": "https://icons.duckduckgo.com/ip3/treatment.ld.plazi.org.ico",
     "slug": "ld-plazi-kingdoms",
-    "status": "down",
+    "status": "up",
     "uptime": "88.49%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "89.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "89.98%",
     "uptimeYear": "83.91%",
-    "time": 12931,
-    "timeDay": 21196,
-    "timeWeek": 15340,
-    "timeMonth": 18505,
-    "timeYear": 13637,
+    "time": 12919,
+    "timeDay": 18222,
+    "timeWeek": 14999,
+    "timeMonth": 18345,
+    "timeYear": 13633,
     "dailyMinutesDown": {
       "2025-11-05": 16,
       "2025-11-22": 5,
@@ -211,7 +211,7 @@
       "2026-10-28": 1303,
       "2026-10-27": 1440,
       "2026-10-26": 959,
-      "2026-11-04": 6
+      "2026-11-04": 8
     }
   },
   {
@@ -539,7 +539,7 @@
     "timeMonth": 0,
     "timeYear": 2720,
     "dailyMinutesDown": {
-      "2026-11-04": 915,
+      "2026-11-04": 922,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
@@ -932,7 +932,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-11-04": 915,
+      "2026-11-04": 922,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
