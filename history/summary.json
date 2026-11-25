@@ -428,17 +428,17 @@
     "url": "https://zenodo.org/communities/biosyslit/",
     "icon": "https://icons.duckduckgo.com/ip3/zenodo.org.ico",
     "slug": "biosyslit",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.18%",
-    "time": 5675,
-    "timeDay": 1008,
-    "timeWeek": 1257,
-    "timeMonth": 1484,
-    "timeYear": 6382,
+    "time": 5660,
+    "timeDay": 1033,
+    "timeWeek": 1262,
+    "timeMonth": 1481,
+    "timeYear": 6373,
     "dailyMinutesDown": {
       "2026-03-09": 45,
       "2026-03-10": 41,
@@ -483,7 +483,7 @@
       "2026-10-28": 10,
       "2026-11-03": 16,
       "2026-11-24": 50,
-      "2026-11-25": 19
+      "2026-11-25": 20
     }
   },
   {
@@ -538,7 +538,7 @@
     "timeMonth": 0,
     "timeYear": 2738,
     "dailyMinutesDown": {
-      "2026-11-25": 238,
+      "2026-11-25": 245,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
@@ -929,7 +929,7 @@
       "2026-02-25": 20,
       "2026-04-02": 75,
       "2026-04-01": 5,
-      "2026-11-25": 238,
+      "2026-11-25": 245,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
